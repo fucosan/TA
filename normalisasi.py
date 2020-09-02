@@ -10,7 +10,11 @@ def build_dict_normalisasi(pair):
     url = 'http://kateglo.com/api.php'
     params = {'format': 'json', 'phrase': ''}
     new_word = set()
+    i = 0
     for w in words:
+        if i % 10 == 0:
+            print(i)
+        i += 1
         params['phrase'] = w
         try:
             requests.get(url, params=params).json()
