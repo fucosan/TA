@@ -8,6 +8,7 @@ class MyXML:
         self.root = self.tree.getroot()
         self.data = []
         self.mp = {}
+        self.pair = []
         for text in self.root.iter('text'):
             self.data.append(text.text)
 
@@ -93,3 +94,21 @@ class MyXML:
         if not bool(self.mp):
             self.set_mp()
         return self.mp
+
+    def set_pair(self):
+        for sentence in self.root.iter('sentence'):
+            x = []
+            text = sentence.find('text').text
+            x.append(text)
+            y = []
+            for opini in sentence.find('Opinions'):
+                category = opini.attrib['category']
+                polarity = opini.attrib['polarity']
+                y.append([category, polarity])
+            x.append(y)
+            self.pair.append(x)
+
+    def get_pair(self):
+        if not bool(self.pair):
+            self.set_pair()
+        return self.pair
