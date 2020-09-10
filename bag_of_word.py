@@ -28,16 +28,16 @@ def pos_tagger(kalimat):
     r = requests.post(url, json=js).json()
     result = [0, 0, 0, 0]
     for tag in r['data']['list']:
-        if tag == 'NN':
+        if tag[0] == 'N':
             result[0] += 1
-        else if tag == 'S':
+        elif tag[0] == 'V':
             result[1] += 1
-        else if tag == 'B':
+        elif tag[0] == 'J':
             result[2] += 1
-        else if tag == 'F':
+        elif tag[0] == 'R':
             result[3] += 1
     for i in range(0, 4):
-        result[i] /= len(r['data']['list']
+        result[i] /= max(1, len(r['data']['list']))
 
     return result
 

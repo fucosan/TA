@@ -1,0 +1,3 @@
+[submodule "pujangga"]
+	path = pujangga
+	url = git@github.com:panggi/pujangga.git

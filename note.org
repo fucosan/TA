@@ -17,8 +17,22 @@ regex masih perlu diperbaiki https://regex101.com/r/iV5qU1/2
 - mahasiswa akan lebih tertarik dengan adanya latihan-latihan soal dibandingkan hanya terus diterangkan tentang materi yang diajarkan.
 - menurut saya pengajar kuliah informatika yang sekarang ini hanya beberapa saja yang memang benar-benar menguasai bidang yang diajarkan.
 - kurang transparan untuk nilai akhir semester, di siakad dna juga hanya berisi indeks saja bukan rincian-rincian nilainya dari awal semester hingga akhir
-* normalisasi teks
+* Normalisasi teks
 ** transform kata tidak baku
 ** handle singkatan kata
 ** kesalahan ketik
 ** bahasa asing
+* trasnform fitur
+frekuensi, frekuensi_stemming, tfidf, tfidf_stemming, postagger, word2_vec_mean, word2_vec_idf
+** fitur set
+    | no | frekuensi | frekuensi_stemming | tfidf | tfidf_stemming | postagger | word2_vec_mean | word2_vec_idf |
+    |----+-----------+--------------------+-------+----------------+-----------+----------------+---------------|
+    |  1 | yes       | no                 | no    | no             | yes       | yes            | no            |
+    |  2 | yes       | no                 | no    | no             | yes       | no             | yes           |
+    |  3 | no        | yes                | no    | no             | yes       | yes            | no            |
+    |  4 | no        | yes                | no    | no             | yes       | no             | yes           |
+    |    |           |                    |       |                |           |                |               |
+    |  5 | no        | no                 | yes   | no             | yes       | yes            | no            |
+    |  6 | no        | no                 | yes   | no             | yes       | no             | yes           |
+    |  7 | no        | no                 | no    | yes            | yes       | yes            | no            |
+    |  8 | no        | no                 | no    | yes            | yes       | no             | yes           |
