@@ -36,7 +36,7 @@
       <sentence id="201640">
          <text>Masih terlalu banyaknya mahasiswa dalam satu kelas atau pada saat perkuliahan berlangsung , sehingga pembelajar masih belum maksimal</text>
          <Opinions>
-            <Opinion category="Sarpras" polarity="Negatif" />
+            <Opinion category="Perkuliahan" polarity="Negatif" />
          </Opinions>
       </sentence>
    </Review>
@@ -117,7 +117,7 @@
       <sentence id="2016112">
          <text>Contoh: Ketika ruangan perkuliahan tidak sepadan dengan jumlah mahasiswa hal itu dapat menyebabkan suasana kelas sangat tidak nyaman dan berdampak ke dalam pemahaman materi yang kurang baik.</text>
          <Opinions>
-            <Opinion category="Sarpras" polarity="Negatif" />
+            <Opinion category="Perkuliahan" polarity="Negatif" />
          </Opinions>
       </sentence>
    </Review>
@@ -288,6 +288,7 @@
          <text>Kondisi perkuliahan kurang kondusif dengan jumlah mahasiswa lebih dari 50 orang dalam 1 ruang kelas, dengan hanya 1 tenaga pengajar selama lebih dari 3 sks</text>
          <Opinions>
             <Opinion category="Perkuliahan" polarity="Negatif" />
+            <Opinion category="Pengajar" polarity="Netral" />
          </Opinions>
       </sentence>
    </Review>
@@ -389,7 +390,6 @@
          <text>Kondisi perkuliahan pada saat kelas berisi lebih dari 50 orang membuat kelas menjadi tidak kondusif.</text>
          <Opinions>
             <Opinion category="Perkuliahan" polarity="Negatif" />
-            <Opinion category="Sarpras" polarity="Negatif" />
          </Opinions>
       </sentence>
       <sentence id="2016401">
@@ -518,6 +518,7 @@
           <text>Kurang transparan untuk nilai akhir semester, di siakad daftar nilai akhir juga hanya berisi indeks saja bukan rincian-rincian nilainya dari awal semester hingga akhir</text>
          <Opinions>
             <Opinion category="Nilai" polarity="Negatif" />
+            <Opinion category="Nilai" polarity="Negatif" />
          </Opinions>
       </sentence>
    </Review>
@@ -541,7 +542,8 @@
       <sentence id="2016560">
          <text>Meskipun banyak saran tentang kapasistas mahasiswa di kelas, namun masih saja 1 kelas mencapai 70 orang, dan itu sangat tidak kondusif.</text>
          <Opinions>
-            <Opinion category="Sarpras" polarity="Negatif" />
+            <Opinion category="Perkuliahan" polarity="Netral" />
+            <Opinion category="Perkuliahan" polarity="Negatif" />
          </Opinions>
       </sentence>
    </Review>
@@ -749,7 +751,7 @@
       <sentence id="2016750">
          <text>Dosen-dosen yang mengajar sudah sangat baik dalam hal mengajar hanya saja terkadang dosen memberi nilai kurang besar</text>
          <Opinions>
-            <Opinion category="Dosen#Umum" polarity="Positif" />
+            <Opinion category="Dosen#Mengajar" polarity="Positif" />
             <Opinion category="Nilai" polarity="Negatif" />
          </Opinions>
       </sentence>
@@ -758,6 +760,7 @@
       <sentence id="2016760">
          <text>Sangat baik bukan hanya mengajarkan tentang perkuliahan saja dosen juga terkadang ada yang mengajarkan pentingnya kedisiplinan</text>
          <Opinions>
+            <Opinion category="Dosen#Umum" polarity="Positif" />
             <Opinion category="Dosen#Umum" polarity="Positif" />
          </Opinions>
       </sentence>
@@ -1133,6 +1136,7 @@
       <sentence id="20161120">
          <text>menurut saya pengajar kuliah informatika yang sekarang ini hanya beberapa saja yang memang benar-benar menguasai bidang yang diajarkan.</text>
          <Opinions>
+            <Opinion category="Dosen#Umum" polarity="Netral" />
             <Opinion category="Dosen#Umum" polarity="Negatif" />
          </Opinions>
       </sentence>
@@ -1162,7 +1166,8 @@
       <sentence id="20161141">
          <text>Mahasiswa akan lebih tertarik dengan adanya latihan-latihan soal dibandingkan hanya terus diterangkan tentang materi yang diajarkan.</text>
          <Opinions>
-            <Opinion category="Dosen#Mengajar" polarity="Negatif" />
+            <Opinion category="Dosen#Mengajar" polarity="Netral" />
+            <Opinion category="Dosen#Mengajar" polarity="Netral" />
          </Opinions>
       </sentence>
    </Review>
@@ -1252,6 +1257,7 @@
          <text>Kurangnya sarana prasarana yang terkadang kelas yang mahasiswanya banyak hanya di fasilitasi 1 kipas angin apa lagi jika kuliah saat siang hari itu sangat mempengaruhi</text>
          <Opinions>
             <Opinion category="Sarpras" polarity="Negatif" />
+            <Opinion category="Sarpras" polarity="Negatif" />
          </Opinions>
       </sentence>
    </Review>
@@ -1328,6 +1334,7 @@
       <sentence id="20161331">
           <text>karena praktikum prodi informatika hanya dilakukan dikelas dengan laptop masing-masing mahasiswa yang kadang kala laptop mahasiswa tidak dapat menunjang untuk praktikum dikarenakan contoh: spesifikasi yang tidak mendukung, dan hal ini dirasakan oleh beberapa mahasiswa satu angkatan saya dan menyebabkan praktikun juga kurang efektif</text>
           <Opinions>
+              <Opinion category="Perkuliahan" polarity="Netral" />
               <Opinion category="Sarpras" polarity="Negatif" />
           </Opinions>
       </sentence>
@@ -1642,6 +1649,7 @@
       <sentence id="20161660">
          <text>Sarana prasarana sudah tersedia tetapi fungsinya masih belum berjalan</text>
          <Opinions>
+            <Opinion category="Sarpras" polarity="Positif" />
             <Opinion category="Sarpras" polarity="Negatif" />
          </Opinions>
       </sentence>
@@ -1711,6 +1719,7 @@
          <text>Pelayanan secara akademik sudah cukup baik, namun masih tetap bisa ditingkatkan</text>
          <Opinions>
             <Opinion category="Layanan" polarity="Positif" />
+            <Opinion category="Layanan" polarity="Netral" />
          </Opinions>
       </sentence>
    </Review>

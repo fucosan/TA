@@ -19,6 +19,16 @@ def transform_bag_of_words(freq_dict, data_opini):
             arr[i].append(0.)
     return arr
 
+def transform_bag_of_word_kalimat(freq_dict, kalimat):
+    fitur = []
+    for word in nltk.tokenize.word_tokenize(kalimat):
+        if len(word) > 1:
+            fitur.append(freq_dict[word.lower()])
+    for i in range(0, 96 - len(fitur)):
+        fitur.append(0.0)
+    return fitur
+
+
 def transform_pos_tagger(data_opini):
     arr = []
     for text, opini in data_opini:

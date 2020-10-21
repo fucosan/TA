@@ -1,0 +1,83 @@
+#
+POST http://localhost:9000/stemmer
+Content-Type: application/json
+{
+  "string": "layanan yang kami dapatkan sebagai seorang mahasiswa dirasa sudah cukup baik untuk saat ini."
+}
+#
+POST http://localhost:9000/word2vec/nearestwords
+Content-Type: application/json
+{
+  "string": "pengajar",
+  "n": 10
+}
+{
+  "string": "mobil",
+  "n": 10
+}
+#
+POST http://localhost:9000/formalizer
+Content-Type: application/json
+{
+  "string": "saat saya ingin meminta trasnparansi nilai ada tangapan bahwa saya disuruh menemui beliau, ketika saya followup kembali beliau tidak menjawab chat saya, dibaca pun tidak."
+}
+#
+POST http://localhost:9000/postagger
+Content-Type: application/json
+{
+  "string": "Beberapa pengajar sudah mengajar dengan baik, namun ada juga yang belum baik"
+}
+#
+POST http://localhost:9000/postagger
+Content-Type: application/json
+{
+  "string": "Kondisi perkuliahan di luar kelas cukup baik."
+}
+#
+POST http://localhost:9000/netagger
+Content-Type: application/json
+{
+  "string": "Dosen informatika sudah sangat baik namun ruangannya panas"
+}
+#
+POST http://localhost:9000/phrasechunker
+Content-Type: application/json
+{
+  "string": "Dosen informatika sudah sangat baik namun ruangannya panas"
+}
+#
+POST http://localhost:9000/phrasechunker
+Content-Type: application/json
+{
+  "string": "harga makanannya mahal namun sebanding"
+}
+#
+POST http://localhost:9000/phrasechunker
+Content-Type: application/json
+{
+  "string": "ruangannya sejuk namun sempit"
+}
+#
+POST http://localhost:9000/phrasechunker
+Content-Type: application/json
+{
+  "string": "Namun didalam kelas, semua kondisi tergantung dosen yang mengajar"
+}
+#
+POST http://localhost:9000/phrasechunker
+Content-Type: application/json
+{
+  "string": "Beberapa pengajar ada juga yang belum."
+}
+#
+POST http://localhost:9000/stopwords
+Content-Type: application/json
+{
+  "string": "Saya harap buku referensi perkuliahan diperpustakaan agar diperbanyak lagi"
+}
+#
+POST http://localhost:9000/postagger
+Content-Type: application/json
+{
+  "string": "Dosen yang mengajar mata kuliah basis data sudah menjelaskan dengan baik tetapi suaranya terlalu kecil." 
+}

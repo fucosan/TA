@@ -1,0 +1,37 @@
+* TODO Prepared Data 
+- Load xlsx data into Data Frame
+- Filter Unecessary Column like Name, Nim, Timestamp, Email etc.
+- filter short reviews, like Baik, Sangat Baik, Setuju, Tidak Setuju etc
+  -install NLTK, pandas and other
+  - Merge data into one list
+  - case folding
+  - remove non-character
+- change data into xml and save to file.
+* Anotate Data
+- label ruangan dihapus dimasukin kedalam sarpras
+- conjungsi: tapi, namun, hanya, cuma, cuman, walaupun, meskipun, walau
+- visit this : beberapa dosen belum dapat menguasai(2017)
+- visit this : saya harap sarana prasarana dapat ditambah, dan dosen/pengajar lebih interaktif dan kreatif dengan mahasiswa(2017)
+- visit this : tapi akan lebih baik lagi jika ada perbaikan untuk
+- visit this : 1. mengajarnya mudah dipahami 2. mengajarnya tidak mudah dipahami 3. dosen yg lebih banyak bercerita
+- visit this : kurangnya diskusi persetujuan antar mahasiswa dan
+- visit this : bagus, tapi ga semuanya.
+- visit this : jadi seperti mendongeng yang mengurangi (MARK)
+- visit this : enak, suasananya kompak, tapi kadang suka gak (MARK)
+- visit this : kelas sudah memadai tapi fasilitas dukungan seperti ac,dll.
+- visit this : kurang dingin jadi kurang nyaman dan terlalu gerah tidak konsentrasi.
+- visit this : sudah baik, tapi penjadwalan akademik dan pengaturan(MARK)
+- visit this : bagus, hanya saja terkadang dosen kurang memahami a
+- visit this : saya berharap
+- visit this : kondisi nya terjaga dan selalu ke
+- visit this : perkuliahan yang baik ketika ruangan
+- - ada kalimat yang pakai kata konjungsi diawal kalimat;
+* TODO data Preprocessing
+ - statistik data
+ - preprocessing
+ - trainig
+ - liat hasil
+* besok
+** alter data, ruangan diganti jadi sarpras? bingung jadi ragu
+** visit this diliat lagi
+* algorithm detect noun phrase

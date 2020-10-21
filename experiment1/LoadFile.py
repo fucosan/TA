@@ -8,7 +8,7 @@ from time import gmtime, strftime, localtime
 import os
 import errno
 
-links = ['./data/raw/2016.xlsx', './data/raw/2017.xlsx', './data/raw/2018.xlsx', './data/raw/2019.xlsx']
+links = ['../data/raw/2017.xlsx', '../data/raw/2016.xlsx']
 datas = {}
 
 
@@ -43,44 +43,39 @@ def merge_data():
     for k, v in datas.items():
         datas[k] = v.stack().tolist()
 
-
 def compare_2017_and_2016(s1, s2):
-     """
-     compare two string return true if 90% similarity otherwise false
-     """
+    if isinstance(s1, str) == False:
+        return False
 
-     if isinstance(s1, str) == False:
-         return False
+    if isinstance(s2, str) == False:
+        return False
 
-     if isinstance(s2, str) == False:
-         return False
-
-     list_s1 = nltk.word_tokenize(s1)
-     list_s2 = nltk.word_tokenize(s2)
-     mn_sz = min(len(list_s1), len(list_s2))
-     cnt = 0
-     for i in range(0, mn_sz):
-         if list_s1 == list_s2:
-             cnt+= 1
-     if cnt / mn_sz >= 0.9:
-         return True
-     return False
+    list_s1 = nltk.word_tokenize(s1)
+    list_s2 = nltk.word_tokenize(s2)
+    mn_sz = min(len(list_s1), len(list_s2))
+    cnt = 0
+    for i in range(0, mn_sz):
+        if list_s1 == list_s2:
+            cnt+= 1
+    if cnt / mn_sz >= 0.9:
+        return True
+    return False
 
 def remove_2017_and_2016():
     """
     remove review if there is the same review from 2017 and 2016
     """
     res = []
-    for r2017 in datas['./data/raw/2017.xlsx']:
+    for r2017 in datas['../data/raw/2017.xlsx']:
         ok = 1;
-        for r2016 in datas['./data/raw/2016.xlsx']:
+        for r2016 in datas['../data/raw/2016.xlsx']:
             if compare_2017_and_2016(r2017, r2016) == True:
                 ok = 0
                 break
         if ok == 1:
             res.append(r2017)
 
-    datas['./data/raw/2017.xlsx'] = res
+    return res
 
 def case_fold():
     """
@@ -89,7 +84,7 @@ def case_fold():
     for k, v in datas.items():
         x = []
         for sen in v:
-            x.append(str(sen).lower())
+            x.append(sen.lower())
         datas[k] = x
 
 

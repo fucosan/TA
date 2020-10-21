@@ -24,6 +24,10 @@ def find_noun_phrase(kalimat):
     return result
 
 def split_kalimat(kalimat):
+    """
+    coba pikirin case kalo ada lebih dari satu kata conjungsi, potong dimana?
+    kata meskipun itu coba juga diliat lagi
+    """
     konjungsi = ['tapi', 'namun', 'hanya', 'cuma', 'cuman', 'walaupun', 'walau', 'meskipun']
     hasil = []
     list_kalimat = nltk.tokenize.word_tokenize(kalimat)

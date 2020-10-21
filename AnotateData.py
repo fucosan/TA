@@ -42,7 +42,7 @@ class AnotateData:
 
 
 if __name__ == "__main__":
-    filename = './data/anotate/2019.xml'
+    filename = './data/anotated/2017clean.xml'
     op = {}
     op['category'] = ""
     op['polarity'] = ""
@@ -64,6 +64,6 @@ if __name__ == "__main__":
                 p = int(input("polarity: "))
                 opini.attrib['category'] = d1.find_category(c)
                 opini.attrib['polarity'] = d1.find_polarity(p)
-            d1.tree.write('./data/anotate/2019.xml')
+            d1.tree.write('./data/anotated/2017clean.xml')
             ll = input("masih mau lanjut(y/n): ")
             lanjut = ll

@@ -17,6 +17,8 @@ regex masih perlu diperbaiki https://regex101.com/r/iV5qU1/2
 - mahasiswa akan lebih tertarik dengan adanya latihan-latihan soal dibandingkan hanya terus diterangkan tentang materi yang diajarkan.
 - menurut saya pengajar kuliah informatika yang sekarang ini hanya beberapa saja yang memang benar-benar menguasai bidang yang diajarkan.
 - kurang transparan untuk nilai akhir semester, di siakad dna juga hanya berisi indeks saja bukan rincian-rincian nilainya dari awal semester hingga akhir
+** solusi split kalimat
+*** deteksi kata konjungsi terus lalu keputusan pimsaihnya adalah apakah dikedua sisia ada nounphrase.
 * Normalisasi teks
 ** transform kata tidak baku
 ** handle singkatan kata
@@ -36,3 +38,19 @@ frekuensi, frekuensi_stemming, tfidf, tfidf_stemming, postagger, word2_vec_mean,
     |  6 | no        | no                 | yes   | no             | yes       | no             | yes           |
     |  7 | no        | no                 | no    | yes            | yes       | yes            | no            |
     |  8 | no        | no                 | no    | yes            | yes       | no             | yes           |
+* contoh kalimat yang harus di split 1
+1) 'Ruangan NN sudah MD sejuk NN , , hanya RB beberapa CDI ruang NN saja RB yang SC belum NEG memadai VBI ',
+2) 'Dosen NNP - - dosen NN yang SC mengajar VBT sudah MD sangat RB baik JJ dalam IN hal NN mengajar VBT hanya RB saja RB terkadang RB dosen NN memberi VBT nilai NN kurang RB besar JJ ',
+3) 'Sudah RB cukup JJ baik JJ , , tetapi CC ada VBI beberapa CDI pengajar NN yang SC tidak NEG memberikan VBT contoh NN secara IN nyata JJ sehingga SC membuat VBT mahasiswa NN kurang RB mengerti VBT materi NN yang SC disampaikan VBT ',
+4) 'Beberapa CDI pengajar NN sudah MD mengajar VBT dengan IN baik JJ , , namun CC ada VBI juga RB yang SC belum NEG baik JJ ',
+5) 'sarana NN prasarana NN sudah MD baik JJ , , namun CC ada VBI beberapa CDI ruang NN kelas NN yang SC masih RB perlu RB diperbaiki VBT ',
+6) 'menjelaskan VBI dengan IN baik JJ , , hanya RB saja RB terkadang RB terlalu RB cepat JJ dalam IN penyampaian NN materi NN sehingga SC sulit JJ dipahami VBT '
+* contoh kalimat yang harus di split 2
+1) 'Kondisi NN perkuliahan NN kurang RB kondusif JJ dengan IN jumlah NN mahasiswa NN lebih RB dari IN 50 CDP orang NN dalam IN 1 CDP ruang NN kelas NN , , dengan IN hanya RB 1 CDP tenaga NN pengajar NN selama IN lebih RB dari IN 3 CDP sks NN ',
+2) 'mahasiswa NN akan MD lebih RB tertarik VBI dengan IN adanya NNG latihan NN - - latihan NN soal NN dibandingkan VBT hanya RB terus RB diterangkan VBT tentang IN materi NN yang SC diajarkan VBT . . ',
+3) 'menurut VBT saya PRP pengajar NN kuliah NN informatika NN yang SC sekarang NN ini DT hanya RB beberapa CDI saja RB yang SC memang RB benar JJ - - benar JJ menguasai VBT bidang NN yang SC diajarkan VBT . . ',
+4) 'kurang RB transparan JJ untuk IN nilai NN akhir JJ semester NN , , di IN siakad NN dna NN juga RB hanya RB berisi VBT indeks NN saja RB bukan NEG rincian NN - - rincian NN nilainya NN dari IN awal JJ semester NN hingga CC akhir JJ '
+* note
+a) jangan lupa update key text
+b) kata konjungsi jangan dibuang
+c) besok benerin algorithm untuk split kalimat
