@@ -1,4485 +1,2161 @@
-<Reviews id="2017">
-
-
-	<Review>
-
-
-		<sentence id="201700">
-
-
-			<text>tes keluhan yang panjang selesai</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201710">
-
-
-			<text>ruangan sudah sejuk, hanya beberapa ruang saja yang belum memadai</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201720">
-
-
-			<text>menurut saya masih kurang tenaga pengajar dan segera harus ditambahkan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201730">
-
-
-			<text>kondisi perkuliahan sudah cukup membaik dari sebelum-sebelumnya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201740">
-
-
-			<text>sarana untuk di gedung d masih kurang, karena untuk apa ada ac kalau tidak dihidupkan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201750">
-
-
-			<text>pelayanan secara akademik sudah cukup baik, namun masih tetap bisa ditingkatkan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			<Opinion category="Layanan" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201760">
-
-
-			<text>dosen mengajar tepat waktu</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201770">
-
-
-			<text>perkuliahan dalam kelas kondusif</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201780">
-
-
-			<text>lab komputer dan perpustakaan sangat memadai</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="201790">
-
-
-			<text>dosen-dosen yang mengajar sudah sangat baik dalam hal mengajar hanya saja terkadang dosen memberi nilai kurang besar</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Nilai" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017100">
-
-
-			<text>kurangnya sarana prasarana yang terkadang kelas yang mahasiswanya banyak hanya di fasilitasi 1 kipas angin apa lagi jika kuliah saat siang hari itu sangat mempengaruhi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017110">
-
-
-			<text>sangat baik bukan hanya mengajarkan tntang prkuliahan saja dosen jga trladang ada yg mngajarkan pntingnya kdisplinan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017120">
-
-
-			<text>masih terlalau banyaknya mahasiswa dalam satu kelas atau pada saat perkuliahan berlangsung , sehingga pmblajar msh blum maksimal</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017130">
-
-
-			<text>sarana yang disediakan lama kelamaan mulai meningkat, hanya saja kurang dalam segi perawatan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017140">
-
-
-			<text>sudah cukup baik</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017150">
-
-
-			<text>pengajar kuliah di itera khusus nya program studi informatika menurut saya pribadi sudah menunjang bagi mahasiswa untuk mengeksplorasi hal-hal yang sudah diajarkan dengan memberikan tugas-tugas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017160">
-
-
-			<text>untuk kondisi perkuliahan sendiri secara garis besar belum terpantau maksimal karena ada beberapa mahasiswa yang acuh dengan apa yang disampaikan oleh dosen sehingga menimbulkan kegaduhan bagi mahasiswa lainya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017170">
-
-
-			<text>sarana dan prasarana dalam penyampaian materi dalam perkuliahan belajar mengajar sudah cukup baik dan kondusif</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017180">
-
-
-			<text>layanan dalam bentuk penjelasan materi menurut saya pribadi masih kurang karena mahasiswa yang menonjol dibandingkan dengan mahasiswa lainya yang kurang akan lebih mendapat pelayanan lebih dibanding dengan mahasiswa yang kurang.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017181">
-
-
-			<text>solusi nya dilakukan layanan pengajaran secara menyeluruh sehingga tidak terjadi yang namanya unggul sendiri.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017190">
-
-
-			<text>dengan di pasang nya ac, alhamdulillah sedikit adem.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017191">
-
-
-			<text>kelas cukup kondusif</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017200">
-
-
-			<text>saran saya, proyektor ada di tiap kelas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017201">
-
-
-			<text>jadi ketua kelas tidak perlu meminjam lagi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017210">
-
-
-			<text>perbanyak lagi kerja sama dengan industri, misalnya microsoft untuk free lisensi, cisco untuk sertifikasi dll</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017220">
-
-
-			<text>mudah dimengerti,lbih terbuka,dan enjoy dengan pembelajaran sekarang</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017230">
-
-
-			<text>panas,kurang lega kelasnya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017240">
-
-
-			<text>sudah baik lagi,coba jadi yg lebih baik lagi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017250">
-
-
-			<text>pengajar sudah cukup baik menyampaikan materi, tetapi ada yang asik ada yang kurang dalam hal mengajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017251">
-
-
-			<text>semua tergantung kepada cara mengajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017252">
-
-
-			<text>pengajar bisa berpengaruh dalam hal kondisi perkuliahan didlm kelas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017260">
-
-
-			<text>kondisi perkuliahan diluar kelas cukup baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017261">
-
-
-			<text>namun didalam kelas, semua kondisi tergantung dosen yang mengajar</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017270">
-
-
-			<text>jaringan internet kampus kalau siang sering lemot,</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017280">
-
-
-			<text>menurut saya, semua pengajar kuliah sudah baik dan bagus.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017281">
-
-
-			<text>namun ketika ada suatu kasus pada materi perkuliahan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017282">
-
-
-			<text>terkadang mahasiswa membutuhkan penjelasan dengan sebuah analogi atau contoh real kasusnya agar dapat lebih memahami.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017283">
-
-
-			<text>dan saya rasa agar semua mahasiswa dapat memahami tentang materi perkuliahan, metode seperti itu yang paling cocok dilakukan oleh pengajar agar pemahaman mahasiswa lebih matang lagi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017290">
-
-
-			<text>kondisi perkuliahan sangat bergantung dengan beberapa parameter.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017291">
-
-
-			<text>seperti ruangan, pengajar, dan apa yang sedang dilakukan dalam perkuliahan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			<Opinion category="Perkuliahan" polarity="Netral" /><Opinion category="Perkuliahan" polarity="Netral" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017292">
-
-
-			<text>contoh: ketika ruangan perkuliahan tidak sepadan dengan jumlah mahasiswa hal itu dapat menyebabkan susana kelas sangat tidak nyaman dan berdampak ke dalam pemahaman materi yang kurang baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017300">
-
-
-			<text>saya sebagai mahasiswa informatika sangat berharap ada ruangan praktikum yang dikhususkan untuk mahasiswa informatika, karena praktikum prodi informatika hanya dilakukan dikelas dengan laptop masing-masing mahasiswa yang kadangkala laptop mahasiswa tidak dapat menunjang untuk praktikum dikarenakan contoh: spek yang tidak mendukung, dan hal ini dirasakan oleh beberapa mahasiswa seangkatan saya dan menyebabkan praktikun juga kurang efektif</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017310">
-
-
-			<text>saya harap buku referensi perkuliahan diperpustakaan agar diperbanyak lagi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017311">
-
-
-			<text>karena saya sendiri merasa buku referensi perkuliahan yang berkaitan dengan prodi informatika masih kurang.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017312">
-
-
-			<text>saya lebih sering mencari materi di internet untuk pengembangan diri ataupun untuk mendalami materi di perkuliahan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017313">
-
-
-			<text>hal tersebut dikarenakan buku di perpustakaan masi kurang beragam.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017320">
-
-
-			<text>beberapa dosen sudah mempunyai kapabilitas sebagai pengajar, dan secara keseluruhan sudah baik</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017330">
-
-
-			<text>beberapa pengajar masih membingungkan dan seperti kurang paham materi juga.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017340">
-
-
-			<text>sudah bagus dalam penyampaian materi dan juga sering memberi ruang untuk bertanya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017350">
-
-
-			<text>mahasiswa per kelas ada yang masih terlalu banyak, kalau bisa dibatasi setiap kelas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017360">
-
-
-			<text>tempat praktikum yang masih bergabung dengan prodi lain</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017370">
-
-
-			<text>dosen selalu membalas chat mahasiswa, dan juga jika ada yang bertanya saat pelajaran maupun diluar, beliau-beliau tetap menjawab dengan antusias</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017380">
-
-
-			<text>kurang transparan untuk nilai akhir semester, di siakad dna juga hanya berisi indeks saja bukan rincian-rincian nilainya dari awal semester hingga akhir</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Nilai" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017390">
-
-
-			<text>menurut saya para dosen sudah menyampaikan materi dengan baik kepada mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017391">
-
-
-			<text>namun agar materi dapat dimengerti lebih baik lagi diharap agar dapat langsung memeberikan contoh pengaplikasiannya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017400">
-
-
-			<text>kondisi perkukiahan kondusif sehingga dapat nyaman dalam kegiatan belajar</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017410">
-
-
-			<text>sarana prasarana sudah baik, namun ada beberapa ruang kelas yg masih perlu diperbaiki</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017420">
-
-
-			<text>cukup baik dalam penyampaian materi, namun beberapa pengajar masih ada yang kaku dlm mengajar</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017430">
-
-
-			<text>masih ada kelas yang kurang nyaman digunakan saat perkuliahan karena sirkulasi udaranya yang kurang baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017440">
-
-
-			<text>untuk segera penyempurnaan agar kondusif dalam pembelajaran</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017450">
-
-
-			<text>kadang - kadang perkuliahan sering terlambat dari jadwal yang semestinya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017460">
-
-
-			<text>pengajaran dikelas supaya materinya lebih ringkas dan padat, jangan terlalu banyak sehingga terlalu cepat menyampaikannya banyak mahasiswa yang tertinggal juga karena kondisi yang belum kondusif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017461">
-
-
-			<text>jika materi/subbab sangat banyak lebih baik dibuatkan tugas dan penilaian sebagai evaluasi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017470">
-
-
-			<text>perkuliahan sangat jauh dari kondusif, beberapa dosen bahkan mewajarkannya seperti candaan yang berlebihan saat kuliah sehingga membuat banyak mahasiswa tertawa dan fokus kuliah terpecah.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017471">
-
-
-			<text>lebih baik mahasiswa ditekankan untuk memakai "adab sebelum ilmu" atau etika dalam menuntut ilmu supaya kelas kondusif dan mendapatkan berkah.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017480">
-
-
-			<text>sarana prasarana seperti perpustakaan dan student corner (co-working space) yang memadai, supaya mahasiswa bisa punya tempat untuk mengerjakan tugas, kerja kelompok dan hal-hal yang menunjang skill mahasiswa supaya mahasiswa tidak perlu keluar kampus untuk hal-hal seperti itu diatas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017481">
-
-
-			<text>dan ruang auditorium yang memadai untuk menunjang kegiatan diluar kuliah seperti seminar, pelatihan dan kegiatan mahasiswa yang lainnya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017490">
-
-
-			<text>layanan penelitian yang lebih banyak lagi, supaya mahasiswa belajar dengan metode research based learning dan project based learning</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017500">
-
-
-			<text>forum dosen dan mahasiswa yang rutin yang membahas hal seperti ini dan lainnya seperti kajian teknologi terkini, kebutuhan industri saat ini lain sebagainya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017510">
-
-
-			<text>ada sebagian pengajar yang sangat berkompeten sehingga menyampaikan perkuliahan dengan sangat baik, namun ada juga yang masih belum bisa menyampaikan materi dengan baik, sehingga ada sebagian mahasiswa yang kurang paham dengan materi yang disampaikan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017520">
-
-
-			<text>terkadang cukup kondusif kadang tidak, tergantung kepada cara dosen membawakan materi, karena, kadang materi sulit pun jika dosen membawakan dengan enjoy tetap dapat dipahami semua mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017530">
-
-
-			<text>meskipun banyak saran tentang kapasistas mahasiswa di kelas, namun masih saja 1 kelas mencapai 70an orang, dan itu sangat tidak kondusif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017540">
-
-
-			<text>jangan sampai pengajar kuliah memberikan nilai yang tidak sesuai dengan apa yang ada atau bisa dibilang menembak nilai mahasiswa ala kadarnya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Nilai" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017541">
-
-
-			<text>saya merasa kecewa dengan nilai saya kemarin padahal saya sudah benar2 beranggapan bahwa saya bisa mendapatkan nilai tinggi dan ternyata saya mendapat nilai pas-pasan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Nilai" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017542">
-
-
-			<text>saat saya ingin meminta trasnparansi nilai ada tangapan bahwa saya disuruh menemui beliau, ketika saya followup kembali beliau tidak menjawab chat saya, dibaca pun tidak.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Nilai" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017550">
-
-
-			<text>lebih baik dari sebelumnya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017560">
-
-
-			<text>pelayanan akademika ps if baik, dan dosen pengajar juga baik, dan kompeten</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Positif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017570">
-
-
-			<text>untuk para pengajar kuliah sudah bagus karena enak dalam penyampaian materi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017580">
-
-
-			<text>komputer di lab multimedia sudah banyak yang mulai lambat, mungkin karena banyaknya sampah</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017590">
-
-
-			<text>masih ada kelas yang tidak cukup fasilitas, seperti kipas angin yang rusak, colokan yang tidak aktif, sampai wi-fi yang tidak bisa terkoneksi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017600">
-
-
-			<text>dosen fisika kurang jelas dalam penyampaian materi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017610">
-
-
-			<text>baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017611">
-
-
-			<text>hanya saja panas karena beberapa ruangan (khususnya e001) jendela tidak dilapisi kaca film.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017612">
-
-
-			<text>sehingga ruangan sangat panas dan terlalu menyilaukan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017613">
-
-
-			<text>layar lcd proyektor pun tidak jelas terlihat karena sinar matahari masuk dengan bebas ke dalam ruangan yang tidak dilengkapi kaca film.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017614">
-
-
-			<text>e001 juga tidak dilengkapi kipas angin di langit langit seperti kelas lainnya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017620">
-
-
-			<text>saya mohon, untuk ruangan e001 jendela dilapisi kaca film.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017621">
-
-
-			<text>karena sinar matahari siang hari selalu menyengat langsung ke dalam kelas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017622">
-
-
-			<text>ac pun sering tidak menyala, tidak dilengkapi kipas angin di langit-langit seperti ruang lainnya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017623">
-
-
-			<text>terlebih kami, tpb 1 sangat sering mendapat perkuliahan di ruang e001.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017624">
-
-
-			<text>mohon pengertiannya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017625">
-
-
-			<text>terimakasih.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017630">
-
-
-			<text>dalam pembelajaran, pengajar sudah melakukan yang terbaik bagi mahasiswa, sangat baik</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017640">
-
-
-			<text>tergantung mahasiswa/i-nya kondusif atau tidak</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017650">
-
-
-			<text>beberapa sudah cukup memuaskan dari cara penyampaian materi, namun ada beberapa yg sulit dipahami karena cara penyampaian dengan suara yang lembut sehingga kurang terdengar oleh mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017651">
-
-
-			<text>dan menurut saya ada beberapa dosen yang kurang pas mengajar dibidang studi tersebut khusus nya dosen tpb.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017652">
-
-
-			<text>karena ada beberapa penyampaian dosen yg terkadang membingungkan dan membutuhkan klarifikasi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017660">
-
-
-			<text>untuk perkuliahan kelas besar, saya rasa kurang efektif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017661">
-
-
-			<text>terutama kondisi kelas yang panas akan mengakibatkan kondisi semakin kurang kondusif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017662">
-
-
-			<text>menurut saya, untuk beberapa mata kuliah yang cukup rawan seperti mafiki bisa dipindahkan ke jam pagi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017663">
-
-
-			<text>karena jika siang kurang kondusif efek lelah, mengantuk ataupun panas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017670">
-
-
-			<text>menurut saya sarana prasarana utama dikelas harus benar-benar mencukupi, seperti papan tulis( kalau bisa di bagian papan tulis terdapat anjungan agar lebih tinggi, sehingga mahasiswa yang duduk di belakang dapat melihat dengan jelas), spidol, kipas(pendingin ruangan), ataupun kalau bisa papan tulis tetdpat 2 di kelas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017680">
-
-
-			<text>menurut saya layanannya masih standar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017690">
-
-
-			<text>kalau bisa disediakan tempat untuk beristirahat atau berdiskusi selain kantin di beberapa tempat.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017691">
-
-
-			<text>untuk toilet, saya berharap tetap terjaga bersih, air lancar dan pencahayaan yang cukup.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017692">
-
-
-			<text>kalau bisa ada sesi diskusi dengan dosen berdasarkan mata kuliah, dan diskusi itu bergulir tidak langsung 1 kelas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017693">
-
-
-			<text>terima kasih banyak</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017700">
-
-
-			<text>pengajar kuliah yang saya temui sejauh ini, cukup baik, tepat sasaran menurut saya, bahkan bisa dikatakan efisien dan efektif dalam pengajarannya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017710">
-
-
-			<text>kondisi perkuliahan kurang kondusif dengan jumlah mahasiswa lebih dari 50orang dalam 1 ruang kelas, dengan hanya 1 tenaga pengajar selama lebih dari 3sks</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017720">
-
-
-			<text>sarana prasarana lumayan memadahi hanya saja ada beberapa sarana yang sepertinya kurang terawat dengan baik oleh oknum2 tertentu yang tidak bisa di sebutkan secara spesifik, sejauh ini baik</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017730">
-
-
-			<text>keadaan ruangan yang tanpa peredam dan ganggguan dari eksternal membuat mahasiswa lebih ekstra fokus dalam mendengarkan pemberian materi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017740">
-
-
-			<text>sudah cukup baik,,tetapi ada beberapa pengajar yang tidak memberikan contoh secara nyata sehingga membuat mahasiswa kurang mengerti materi yang disampaikan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017750">
-
-
-			<text>kurang memadai, dosen yang kadang suka menjelaskan lewat papan tulis tanpa beraturan saat menjelaskan, jadi mahasiswa kadang tidak mengerti harus memulai mencatat dari mna</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017760">
-
-
-			<text>menurut saya semua pengajar sangat kompeten, namun ada beberapa yang mungkin dalam penyampaian nya kurang efektif sehingga kami sebagai mahasiswa kurang paham tentang pelajaran yang diberikan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017770">
-
-
-			<text>kondisi perkuliahan tidak ada masalah, mungkin ada masalah ketika kelas yang overload</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017780">
-
-
-			<text>pengajar kuliah telah menyampikan materi yang baik kepada mahasiswa, dan mahasiswa dapat memahami apa yang disampaikan, pengajar juga menanyakan kepada mahasiswa apa yang belum dipahami oleh mahasiswa tersebut, sehingga di akhirnya pengajar dapat menyampaikan dengan baik dan mahasiswa dapat memahaminya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017790">
-
-
-			<text>kondisi perkuliahan terkadang tidak kondusif oleh karena beberapa hal, seperti beberapa mahasiswa yang mengikuti perkuliahan dalam keadaan ngantuk, lapar, dan tidak fokus.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017791">
-
-
-			<text>ada juga yang ngobrol hal yang tidak berkaitan dengan materi perkuliahan, sehingga menimbulkan kebisingan yang dapat membuat sekitarnya menjadi tidak fokus.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017800">
-
-
-			<text>sarana prasana yang dibeberapa kelas kurang memadai, seperti ada beberapa kelas yang suhu ruangannya lumayan panas dikarenakan pendingin udara yang tidak bekerja dengan baik dan kadang dalam keadaan mati, alat tulis yang dipakai oleh pengajar juga terkadang tidak baik seperti spidol yang macet dan kekurangan tinta, dan saat penggunaan infocus yang kadang tidak terlihat jelas karena silau cahaya matahari.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017810">
-
-
-			<text>menurut saya pengajar kuliah informatika yang sekarang ini hanya beberapa saja yang memang benar-benar menguasai bidang yang diajarkan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017811">
-
-
-			<text>semoga dengan rencana penambahan dosen if, kebutuhan dosen pengajar dan mata kuliah  yang akan diajarkan semakin berkurang kesenjangannya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017820">
-
-
-			<text>perkuliahan yang dilakukan selama satu semester, alangkah baiknya jika bobot penilaian dan kontrak kuliah dengan dosen bersangkutan didiskusikan secara matang di awal semester.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017821">
-
-
-			<text>hal ini berdasarkan pengalaman di semester ini, dimana ada beberapa dosen yang kurang jelas dalam memberitahukan bobot penilaian serta kontrak kuliah, maupun sistem perkuliahan yang akan dilakukan di kelas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017830">
-
-
-			<text>sarana prasarana alangkah baiknya diusahakan semakin ditingkatkan lagi dari segi kuantitas maupun kualitas pemeliharaan sarana prasarana yang telah ada</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017840">
-
-
-			<text>layanan yang kami dapatkan sebagai seorang mahasiswa dirasa sudah cukup baik untuk saat ini.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017841">
-
-
-			<text>namun, untuk beberapa bidang seperti, pelayanan pengisian krs di siakad, alangkah baiknya jika kualitas sistem siakad dilakukan pembenahan agar tidak sering terjadi server down</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017850">
-
-
-			<text>staff pengajar sudah sangat mumpuni dan ahli di bidang nya masing masing.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017860">
-
-
-			<text>kalau bisa , setiap dosen memberikan materi apa saja yang akan di pelajari dari awal hingga akhir , sehingga mahasiswa dapat mempelajari materi tsb sebelum perkuliahan dimulai</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017870">
-
-
-			<text>beberapa pengajar sudah mengajar dengan baik, namun ada juga yang belum.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017871">
-
-
-			<text>mahasiswa akan lebih tertarik dengan adanya latihan-latihan soal dibandingkan hanya terus diterangkan tentang materi yang diajarkan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017880">
-
-
-			<text>kondisi perkuliahan pada saat kelas berisi lebih dari 50 orang membuat kelas menjadi tidak kondusif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017881">
-
-
-			<text>hal ini saya alami di beberapa matakuliah prodi if.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017890">
-
-
-			<text>sarana dan prasarana sudah cukup baik, mahasiswa bisa belajar dengan baik, karena adanya sarana dan prasarana tersebut.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017900">
-
-
-			<text>layanan di itera sudah cukup baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017910">
-
-
-			<text>bagus, dengan tugas yang sangat melatih</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017920">
-
-
-			<text>kondisi perkuliahan berbeda-beda sesuai dengan ruang perkuliahan nya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017930">
-
-
-			<text>kondisi perkuliahan di itera sangat ditentukan dengan kenyamanan di kelas itu sendiri.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017931">
-
-
-			<text>kurang nya fasilitas pendingin ruangan dan suasana ruang perkuliahan yg terlalu terang akibat cahaya matahari, membuat ruangan terasa panas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017932">
-
-
-			<text>sehingga kondisi perkuliahan jadi kurang kondusif</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017940">
-
-
-			<text>untuk tenaga pengajar, saya saran kan untuk mengajar dengan suara yang keras.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="2017941">
-
-
-			<text>karena ruangan perkuliahan yang cukup besar, maka terkadang suara dari dosen tdiak terdengan sampai belakang</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017950">
-
-
-			<text>untuk para pengajar sudah baik menjalankan tugasnya, hanya saja terkadang ada pengajar yang masih kurang menguasai satu matkul tertentu yang mengakibatkan pelajar tidak paham.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017960">
-
-
-			<text>ada beberapa kipas / ac yang tidak hidup</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017970">
-
-
-			<text>pelayanan sudah memuaskan, untuk konsultasi juga direspon dengan baik</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017980">
-
-
+<Reviews>
+	
+	<Review>
+		
+    
+		<sentence id="T2017-R1-S0">
+			
+          
 			<text>beberapa pengajar terkadang tidak datang tepat waktu tetapi masih pada batas sesuai dengan kontrak kuliah yang disampaikan</text>
-
-
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Positif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="2017990">
-
-
-			<text>cara mengajarnya baik, menyampaikan materi dengan jelas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171000">
-
-
-			<text>tidak ada suara yg mengganggu, kelas bersih</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171010">
-
-
-			<text>adanya laboratorium, tempat olahraga, tempat ibadah, tempat berkreasi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171020">
-
-
-			<text>sudah cukup, namun masih perlu adanya perbaikan/penambahan seperti infocus, ac, lemari dll</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171030">
-
-
-			<text>menurut saya, para dosen sudah cukup berkualitas dari penyamlaian ataupun ilmu</text>
-
-
-			<Opinions>
-
-
+				
+            <Opinion category="Dosen#Umum" polarity="Negatif" />
 				<Opinion category="Dosen#Umum" polarity="Positif" />
 
-
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171040">
-
-
-			<text>menurut saya.</text>
-
-
+		
+    
+		<sentence id="T2017-R2-S0">
+			
+          
+			<text>beberapa matakuliah  kondisi ruangannya tidak kondusif</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171041">
-
-
-			<text>kondisi perkuliahaan saat in sudah jauh lebih bail dari tahun sebelumnya.</text>
-
-
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R3-S0">
+			
+          
+			<text>cara mengajarnya baik, menyampaikan materi dengan jelas</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171042">
-
-
-			<text>sbg contoh ac yang sudah aktif</text>
-
-
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R4-S0">
+			
+          
+			<text>tidak ada suara yg mengganggu, kelas bersih</text>
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171050">
-
-
-			<text>menurut saya.</text>
-
-
+		
+    
+		<sentence id="T2017-R5-S0">
+			
+          
+			<text>adanya laboratorium, tempat olahraga, tempat ibadah, tempat berkreasi, ini yang kurang baik</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171051">
-
-
-			<text>sarana dan prasarana do kampus masih sangat minim.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171052">
-
-
-			<text>sbg contoh ruang untuk belajar bagi mahasiswa diluar kelas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171060">
-
-
-			<text>menurut saya.</text>
-
-
+		
+    
+		<sentence id="T2017-R7-S0">
+			
+          
+			<text>sudah cukup, namun masih perlu adanya perbaikan/penambahan seperti infocus, ac, lemari dll</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171061">
-
-
-			<text>layanan yang diberikan oleh kampus sangat baik</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171070">
-
-
-			<text>segera perbaiki jalan yang ada di dalam kampus.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171071">
-
-
-			<text>karena it sangat membahayakan terutama bagi pengguna motor</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171080">
-
-
-			<text>ada pengajar yg ketika mengajar bisa dimengerti dan dipahami namun ada juga yang masih susah untuk di mengerti dan di pahami ketika menyampaikan mata kuliah</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171090">
-
-
-			<text>karena dalam satu kelas terlalu banyak kuota mahasiswanya jadi ketika belajar mengajar tidak kondusif dan tidak bisa konsentrasi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171100">
-
-
-			<text>baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171101">
-
-
-			<text>tapi terkadang kurang kondusif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171102">
-
-
-			<text>karena suara dari luar ruang perkuliahan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171110">
-
-
-			<text>pengajarnya sangat baik dalam menyampaikan materi mata kuliah dengan cara yang mudah dipahami</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171120">
-
-
-			<text>menurut pendapat saya pribadi para pengajar khusus dosen pengampu saya pak rajif sangat bagus dalam mengajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171121">
-
-
-			<text>memberikan pengajaran kepada mahasiswa dengan cara nya sendiri sehingga mahasiswa tidak bosan dengan kuliah tersebut.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171122">
-
-
-			<text>penyampaian nya baik sampai sampai mengulang beberapa kali penjelasan supaya mahasiswa nya paham akan materi tersebut</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171130">
-
-
-			<text>kondisi perkuliahan biasanya tegang, karena kami dengan dosen tersebut dituntut paham dan sewaktu waktu ditanya oleh dosen tersebut tentang materi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171140">
-
-
-			<text>sudah baik dimana sudah menggunakan ac dan kipas angin supaya mahasiswa tidak kepanasan</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171150">
-
-
-			<text>buat kedepannya semoga prodi teknik informatika lebih baik lagi dari segi mahasiswa maupun dosennya untuk terciptanya kemajuan buat itera.</text>
-
-
+		
+    
+		<sentence id="T2017-R8-S0">
+			
+          
+			<text>tekadang mendapatkan dosen yangsl sulit dimengerti</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171151">
-
-
-			<text>menciptakan enginer enginer yg berkualitas yg dapat memberikan perubahan dan manfaat bagi negeri ini</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171160">
-
-
-			<text>kurang kondusif, karena terkadang suara dari luar kelas kedengeran sehingga tidak fokus</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171170">
-
-
-			<text>ada waktu kita ngoding saat dikelas, jadi kita langsung mengatahui kelemahan kami saat ngoding</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171180">
-
-
-			<text>saat perkuliahan, mahasiswa terlaku banyak didalam satu kelas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171190">
-
-
-			<text>slide yg ingin ajarkan, seharusnya di share terlebij dahulu</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171200">
-
-
-			<text>menjelaskan dengan baik, hanya saja terkadang terlalu cepat dalam penyampaian materi sehingga sulit dipahami</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171210">
-
-
-			<text>kapasitas kelas keci, mhs terlalu ramai</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171220">
-
-
-			<text>cukup baik, mengajar dengan mudah dipahami.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171221">
-
-
-			<text>tapi beberapa pengajar tampak kurang mudah dipahami pengajarannya.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171230">
-
-
-			<text>sarana dan prasarana telah bisa katakan cukup baik stelah ditambah nya beberapa sarana sperti kipas angin di setiap kelas, di perbaiki nya ac, penambahan wifi dsb.</text>
-
-
+		
+    
+		<sentence id="T2017-R9-S0">
+			
+          
+			<text>beberapa ruangan meskipun ada ac nya tetap masih panas</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171240">
-
-
-			<text>layanan disudah cukup baik, namun beberapa dosen tidak menerima untuk dikontak secara pribadi melalui media sosial.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171250">
-
-
-			<text>secara keseluruhan, prodi if sudah cukup baik dalam semua aspek</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171260">
-
-
-			<text>sangat bagus dan menarik dalam penyampaian terhadap mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171270">
-
-
-			<text>kondisi perkuliahan sangat bagus terutama mata kuliah yang dianggap menarik mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171280">
-
-
-			<text>sarana yang di sediakan sangatlah memuaskan untuk lab dan sarana belajar, tapi tidak dengan sarana seperti ac ataupun kipas angin yang  hanya ada dikelas tertentu.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171290">
-
-
-			<text>layanan yang diberikan sangatlah bagus dan memuaskan, keramahan adalah kunci layanan memuaskan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171300">
-
-
-			<text>mengajarkan materi sudah baik , namun cara mengajar saja yg berbeda" tergantung mahasiswa</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Netral" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171310">
-
-
-			<text>kapasitas kelas yg berlebih, ruang kelas yg panas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171320">
-
-
-			<text>sejauh ini dosen yang mengajar saya cukup baik dalam mengajar,apa yang di sampaikan juga cukup bisa di mengerti</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171330">
-
-
-			<text>sebenar nya fasilitas di ruang kelas sudah memadai,hanya saja karna ruangan cukup panas jadi saya terkadang kurang nyaman di dalam kelas terlalu lama lama</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171340">
-
-
-			<text>menurut saya, dosen yang mengajar mata kuliah sudah baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171350">
-
-
-			<text>kondisi perkuliahan sudah cukup kondusif, namun terkadang ada beberapa perkuliahan yang jumlah mahasiswa terlalu banyak.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171351">
-
-
-			<text>jadi kadang dikondisi tersebut jadi tidak kondusif lagi</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171360">
-
-
-			<text>sarana prasana di itera sudah baik, namun ada beberapa yang perlu ditingkatkan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171370">
-
-
-			<text>semoga itera di tahun - tahun berikutnya dapat lebih baik lagi dan lebih maju untuk kedepannya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171380">
-
-
-			<text>sebagian besar para dosen sudah maksimal dalam memberikan materi serta pengajaran yang memudahkan mahasiswa dalam memahami mata kuliah yang bersangkutan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171390">
-
-
-			<text>kondisi ruang kuliah sudah kondusif dalam proses belajar mengajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171400">
-
-
-			<text>lahan parkir mohon diperluas lagi.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R10-S0">
+			
+          
+			<text>menurut saya, para dosen sudah cukup berkualitas dari penyamlaian ataupun ilmu</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R11-S1">
+			
+          
+			<text>kondisi perkuliahaan saat in sudah jauh lebih bail dari tahun sebelumnya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R11-S2">
+			
+          
+			<text>sbg contoh ac yang sudah aktif</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R12-S1">
+			
+          
+			<text>sarana dan prasarana do kampus masih sangat minim.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R12-S2">
+			
+          
+			<text>sbg contoh ruang untuk belajar bagi mahasiswa diluar kelas</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Netral" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R13-S1">
+			
+          
+			<text>menurut saya layanan yang diberikan oleh kampus sangat baik</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R14-S0">
+			
+          
+			<text>segera perbaiki jalan yang ada di dalam kampus.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R14-S1">
+			
+          
+			<text>karena it sangat membahayakan terutama bagi pengguna motor</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Netral" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+		<sentence id="T2017-R15-S0">
+
+
+			<text>ada pengajar yg ketika mengajar bisa dimengerti</text>
+			
+
+			<Opinions>
+
+
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
 
 
 			</Opinions>
 
 
 		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171410">
-
-
-			<text>di dalam ruang kuliah sudah kondusif, tetapi di luar ruang kuliah tidak kondusif</text>
-
-
+		<sentence id="T2017-R15-S1">
+			
+          
+			<text>ada juga yang masih susah untuk di mengerti dan di pahami ketika menyampaikan mata kuliah</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
-
-
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171420">
-
-
+		
+    
+		<sentence id="T2017-R16-S0">
+			
+          
+			<text>karena dalam satu kelas terlalu banyak kuota mahasiswanya jadi ketika belajar mengajar tidak kondusif dan tidak bisa konsentrasi.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R17-S0">
+			
+          
+			<text>kondisi belajar dikelas baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R17-S1">
+			
+          
+			<text>tapi terkadang kurang kondusif.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R17-S2">
+			
+          
+			<text>karena suara dari luar ruang perkuliahan bising sehingga belajar jadi kurang fokus</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R18-S0">
+			
+          
+			<text>pengajarnya sangat baik dalam menyampaikan materi mata kuliah dengan cara yang mudah dipahami</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R19-S0">
+			
+          
+			<text>menurut pendapat saya pribadi para pengajar khusus dosen pengampu saya pak rajif sangat bagus dalam mengajar.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R19-S1">
+			
+          
+			<text>memberikan pengajaran kepada mahasiswa dengan cara nya sendiri sehingga mahasiswa tidak bosan dengan kuliah tersebut.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R19-S2">
+			
+          
+			<text>penyampaian nya baik sampai sampai mengulang beberapa kali penjelasan supaya mahasiswa nya paham akan materi tersebut</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R20-S0">
+			
+          
+			<text>kondisi perkuliahan biasanya tegang, karena kami dengan dosen tersebut dituntut paham dan sewaktu waktu ditanya oleh dosen tersebut tentang materi</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R21-S0">
+			
+          
+			<text>sudah baik dimana sudah menggunakan ac dan kipas angin supaya mahasiswa tidak kepanasan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R22-S0">
+			
+          
+			<text>menurut saya sudah cukup baik</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R23-S0">
+			
+          
+			<text>buat kedepannya semoga prodi teknik informatika lebih baik lagi dari segi mahasiswa maupun dosennya untuk terciptanya kemajuan buat itera.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R23-S1">
+			
+          
+			<text>menciptakan enginer enginer yg berkualitas yg dapat memberikan perubahan dan manfaat bagi negeri ini</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Netral" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R24-S0">
+			
+          
+			<text>kurang kondusif, karena terkadang suara dari luar kelas kedengeran sehingga tidak fokus</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R25-S0">
+			
+          
+			<text>perkuliahan tidak kondusif karena gangguan dari luar, jadi tolong pasang tirai untuk jendela karena menggagu situasi pelajaran</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R26-S0">
+			
+          
+			<text>baik karena dosennya datangvtepat waktu dan selesai tepat waktu kuga</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R27-S0">
+			
+          
+			<text>pelajaran kelas dikelas sangat bagus karena ada waktu kita ngoding saat dikelas, jadi kita langsung mengatahui kelemahan kami saat ngoding</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R28-S0">
+			
+          
+			<text>saat perkuliahan, mahasiswa terlaku banyak didalam satu kelas</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R29-S0">
+			
+          
+			<text>slide yg ingin ajarkan, seharusnya di share terlebij dahulu</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R30-S0">
+			
+          
+			<text>menjelaskan dengan baik, hanya saja terkadang terlalu cepat dalam penyampaian materi sehingga sulit dipahami</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R31-S0">
+			
+          
+			<text>toilet yang sering krisis air dan kotor, mushola pada gedung tidak divasilitasi dengan perangkat sholat</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R32-S0">
+			
+          
+			<text>kapasitas kelas keci, mhs terlalu ramai</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R33-S0">
+			
+          
+			<text>cukup baik, mengajar dengan mudah dipahami.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R33-S1">
+			
+          
+			<text>tapi beberapa pengajar tampak kurang mudah dipahami pengajarannya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R34-S0">
+			
+          
+			<text>kondisi perkuliahan juga cukup baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R35-S0">
+			
+          
+			<text>sarana dan prasarana telah bisa katakan cukup baik stelah ditambah nya beberapa sarana sperti kipas angin di setiap kelas, di perbaiki nya ac, penambahan wifi dsb.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R36-S0">
+			
+          
+			<text>layanan disudah cukup baik, namun beberapa dosen tidak menerima untuk dikontak secara pribadi melalui media sosial.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R37-S0">
+			
+          
+			<text>secara keseluruhan, prodi if sudah cukup baik dalam semua aspek</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R38-S0">
+			
+          
+			<text>sangat bagus dan menarik dalam penyampaian terhadap mahasiswa.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R39-S0">
+			
+          
+			<text>kondisi perkuliahan sangat bagus terutama mata kuliah yang dianggap menarik mahasiswa.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R40-S0">
+			
+          
+			<text>sarana yang di sediakan sangatlah memuaskan untuk lab dan sarana belajar, tapi tidak dengan sarana seperti ac ataupun kipas angin yang  hanya ada dikelas tertentu.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R41-S0">
+			
+          
+			<text>layanan yang diberikan sangatlah bagus dan memuaskan, keramahan adalah kunci layanan memuaskan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R42-S0">
+			
+          
+			<text>mengajarkan materi sudah baik , namun cara mengajar saja yg berbeda" tergantung mahasiswa</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Mengajar" polarity="Netral" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R43-S0">
+			
+          
+			<text>kapasitas kelas yg berlebih, ruang kelas yg panas</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R44-S0">
+			
+          
+			<text>sejauh ini dosen yang mengajar saya cukup baik dalam mengajar,apa yang di sampaikan juga cukup bisa di mengerti</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R45-S0">
+			
+          
+			<text>sebenar nya fasilitas di ruang kelas sudah memadai,hanya saja karna ruangan cukup panas jadi saya terkadang kurang nyaman di dalam kelas terlalu lama lama</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R46-S0">
+			
+          
+			<text>menurut saya, dosen yang mengajar mata kuliah sudah baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R47-S0">
+			
+          
+			<text>kondisi perkuliahan sudah cukup kondusif, namun terkadang ada beberapa perkuliahan yang jumlah mahasiswa terlalu banyak.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R47-S1">
+			
+          
+			<text>jadi kadang dikondisi tersebut jadi tidak kondusif lagi</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R48-S0">
+			
+          
+			<text>sarana prasana di itera sudah baik, namun ada beberapa yang perlu ditingkatkan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R49-S0">
+			
+          
+			<text>semoga itera di tahun - tahun berikutnya dapat lebih baik lagi dan lebih maju untuk kedepannya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R50-S0">
+			
+          
+			<text>sebagian besar para dosen sudah maksimal dalam memberikan materi serta pengajaran yang memudahkan mahasiswa dalam memahami mata kuliah yang bersangkutan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R51-S0">
+			
+          
+			<text>kondisi ruang kuliah sudah kondusif dalam proses belajar mengajar.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R52-S0">
+			
+          
+			<text>lahan parkir mohon diperluas lagi.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R53-S0">
+			
+          
+			<text>di dalam ruang kuliah sudah kondusif, tetapi di luar ruang kuliah tidak kondusif</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R54-S0">
+			
+          
 			<text>pintu banyak yang rusak
 air di toilet kurang lancar</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R55-S0">
+			
+          
+			<text>pengajar di prodi if baik,dari segi pemberian materi,dosennya sabar mengajari</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R56-S0">
+			
+          
+			<text>layanan yang berhubungan l dengan materi di e-learning juga baik,cuma ada beberapa dosen yang belum menginput materi</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R57-S0">
+			
+          
+			<text>sarana dan prasarana cukup memadai, cuman lebih ditingkatkan lagi agar efektif tidak ada kendala maksimum</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R58-S0">
+			
+          
+			<text>layanan yang tersedia cukup baik, dan lebih ditingkatkan lagi agar menjadi lebih baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R59-S0">
+			
+          
+			<text>pengajaran dan penilaian lebih di permudah.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R60-S0">
+			
+          
+			<text>opini saya adalah masih kurang kondusifnya kegiatan perkuliahan, diakibatnya banyaknya mahasiswa di kelas.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R61-S0">
+			
+          
+			<text>baik, namun dari segi penyampaian masih seperti anak sekolahan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R62-S0">
+			
+          
+			<text>walaupun terbilang kampus baru tapi untuk bersaing dengan kampus kampus lain yang sudah lama masih bisa bersaing</text>
+			
+          
+			<Opinions>
+				
 
+				<Opinion category="NoAspect" polarity="Negatif" />
+				<Opinion category="NoAspect" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R63-S0">
+			
+          
+			<text>beberapa dosen belum dapat menguasai kelas dengan baik,tapi sudah cukup dalam hal ilmu yang di ajarkan.hanya saja untuk kuliah yang terkesan padat/lama ,mahasiswa butuh sedikit 'joke' untuk mencairkan suasana agar tidak bosan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R64-S0">
+			
+          
+			<text>ada jadwal yang terlampau padat,dan jeda antar kuliahnya sangat kecil jadi kurang nyaman</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R65-S0">
+			
+          
+			<text>fasilitas pada ruangan kurang memadai sehingga sistem proses belajar mengajar tergangu</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R66-S0">
+			
+          
+			<text>ada beberapa dosen yang tidak ada persetujuan awal perkuliahan tentang waktu keterlambatan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R67-S0">
+			
+          
+			<text>wifi itera kurang router,gedung e tidak ad wifi,router wifi public selasar malah dihilangkan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R68-S0">
+			
+          
+			<text>sudah baik dalam mengajar.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R68-S1">
+			
+          
+			<text>dosen sangat disiplin.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R68-S2">
+			
+          
+			<text>tepat waktu.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R69-S0">
+			
+          
+			<text>kondisi perkuliahan sekarang cukup nyaman.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R69-S1">
+			
+          
+			<text>akan tetapi kelas sering kotor.</text>
+			
+          
+			<Opinions>
+				
+
+				<Opinion category="NoAspect" polarity="Netral" />
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R70-S0">
+			
+          
+			<text>sarana prasarana cukup baik seperti proyektor sudah memenuhi.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R70-S1">
+			
+          
+			<text>tapi mondisi papan tulis banyak yang kotor.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R71-S0">
+			
+          
+			<text>sebagian besar sudah sangat baik, namun ada beberapa pengajar yang tidak peduli terhadap mahasiswanya, dan hanya berfokus untuk menyelesaikan kewajibannya saja tanpa peduli mahasiswa mengerti atau tidak</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Umum" polarity="Negatif" /><Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R72-S0">
+			
+          
+			<text>kurang mendukung untuk perkuliahan, karena terlalu banyak mahasiswa dalam satu kelas</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R73-S0">
+			
+          
+			<text>sudah lebih sedikit mendukung dengan adanya penyejuk udara.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R73-S1">
+			
+          
+			<text>lab komputer kurang memadai</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R74-S0">
+			
+          
+			<text>pengajar menyampaikan materi sesuai silabus yang ditentukan, secara keseluruhan sudah cukup baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R74-S1">
+			
+          
+			<text>namun akan lebih baik lagi jika pengajar tidak datang terlambat ataupun memberi info dadakan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R75-S0">
+			
+          
+			<text>kondisi perkuliahan terasa lebih kondusif jika dibandingkan saat masih tpb.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R76-S0">
+			
+          
+			<text>sarana prasarana cukup memadai, namun jumlah komputer di lab komputer perlu ditambah karena terkadang kami mahasiswa masih perlu membawa laptop dari rumah dikarenakan semua unit yang tersedia sudah terpakai.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R77-S0">
+			
+          
+			<text>layanan yang diberikan dosen seperti saat konsultasi/perwalian sangat baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R77-S1">
+			
+          
+			<text>dosen memberikan saran yang terbaik untuk mahasiswa.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+		<sentence id="T2017-R78-S0">
+
+
+			<text>saya rasa itu saja, untuk selebihnya saya harap sarana prasarana dapat ditambah</text>
+			
 
 			<Opinions>
 
@@ -4491,900 +2167,538 @@ air di toilet kurang lancar</text>
 
 
 		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171430">
-
-
-			<text>pengajar di prodi if baik,dari segi pemberian materi,dosennya sabar mengajari</text>
-
-
+		<sentence id="T2017-R78-S1">
+			
+          
+			<text>dan dosen/pengajar lebih interaktif dan kreatif dengan mahasiswa agar suasana belajar mengajar di kelas tidak monoton/membosankan.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171440">
-
-
-			<text>layanan yang berhubungan l dengan materi di e-learning juga baik,cuma ada beberapa dosen yang belum menginput materi</text>
-
-
+		
+    
+		<sentence id="T2017-R79-S0">
+			
+          
+			<text>menurut saya pengajar di perkuliahan sudah bagus karena pengajar selalu hadir dan kalau pun tidak hadir pasti memiliki asalan yang dapat diterima</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171450">
-
-
-			<text>sarana dan prasarana cukup memadai, cuman lebih ditingkatkan lagi agar efektif tidak ada kendala maksimum</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Netral" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171460">
-
-
-			<text>layanan yang tersedia cukup baik, dan lebih ditingkatkan lagi agar menjadi lebih baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171470">
-
-
-			<text>opini saya adalah masih kurang kondusifnya kegiatan perkuliahan, diakibatnya banyaknya mahasiswa di kelas.</text>
-
-
+		
+    
+		<sentence id="T2017-R80-S0">
+			
+          
+			<text>menurut saya kondisi saat di perkuliahan tidak kondisif di beberapa mata kuliah karena beda pengajar</text>
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171480">
-
-
-			<text>baik, namun dari segi penyampaian masih seperti anak sekolahan</text>
-
-
+		
+    
+		<sentence id="T2017-R81-S0">
+			
+          
+			<text>menurut saya sarana prasarana masih kurang seperti halnya proyektor tidak kebagian karena telah dipinjam oleh kelas lain,tetapi dari segi materi yang diberikan komplit</text>
+			
+          
 			<Opinions>
-
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			<Opinion category="Dosen#Mengajar" polarity="Positif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R82-S0">
+			
+          
+			<text>pendapat saya tentang dosen di itera, khususnya untuk dosen prodi adalah, bahwa dalam mengajar mahasiswa di kelas sudah cukup baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R83-S0">
+			
+          
+			<text>kondisi perkuliahan yang cukup kondusif, dengan berbagai kontrak kuliah yang disepakati pada awal kuliah.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R84-S0">
+			
+          
+			<text>sarana pembelajaran saat ini sudah cukup mumpuni, tapi khususnya untuk lab komputer, seharusnya ditambahkan lagi, apalagi dengan mahasiswa yang terus bertambah.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R85-S0">
+			
+          
+			<text>layanan yang ingin saya komplain adalah tentang layanan domain web ukm, karena biasanya webnya sangat sering down.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R86-S0">
+			
+          
+			<text>itera sudah dikenal di kalangan para akademisi, khususnya guru guru sma sederajat, tapi coba tanyakan ke masyarakat, pasti mereka tidak tahu apa itu itera.</text>
+			
+          
+			<Opinions>
+				
 
 				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Netral" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171490">
-
-
-			<text>beberapa dosen belum dapat menguasai kelas dengan baik,tapi sudah cukup dalam hal ilmu yang di ajarkan.hanya saja untuk kuliah yang terkesan padat/lama ,mahasiswa butuh sedikit 'joke' untuk mencairkan suasana agar tidak bosan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			<Opinion category="Perkuliahan" polarity="Netral" /><Opinion category="Perkuliahan" polarity="Netral" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171500">
-
-
-			<text>ada jadwal yang terlampau padat,dan jeda antar kuliahnya sangat kecil jadi kurang nyaman</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
+				<Opinion category="NoAspect" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171510">
-
-
-			<text>wifi itera kurang router,gedung e tidak ad wifi,router wifi public selasar malah dihilangkan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171520">
-
-
-			<text>sudah baik dalam mengajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171521">
-
-
-			<text>disiplin.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171522">
-
-
-			<text>tepat waktu.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171530">
-
-
-			<text>kondisi perkuliahan sekarang cukup nyaman.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171531">
-
-
-			<text>akan tetapi kelas sering kotor.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171540">
-
-
-			<text>sarana prasarana cukup baik seperti proyektor sudah memenuhi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171541">
-
-
-			<text>tapi mondisi papan tulis banyak yang kotor.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171550">
-
-
-			<text>sebagian besar sudah sangat baik, namun ada beberapa pengajar yang tidak peduli terhadap mahasiswanya, dan hanya berfokus untuk menyelesaikan kewajibannya saja tanpa peduli mahasiswa mengerti atau tidak</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171560">
-
-
-			<text>kurang mendukung untuk perkuliahan, karena terlalu banyak mahasiswa dalam satu kelas</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171570">
-
-
-			<text>sudah lebih sedikit mendukung dengan adanya penyejuk udara.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171571">
-
-
-			<text>lab komputer kurang memadai</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171580">
-
-
-			<text>pengajar menyampaikan materi sesuai silabus yang ditentukan, secara keseluruhan sudah cukup baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171581">
-
-
-			<text>namun akan lebih baik lagi jika pengajar tidak datang terlambat ataupun memberi info dadakan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171590">
-
-
-			<text>sarana prasarana cukup memadai, namun jumlah komputer di lab komputer perlu ditambah karena terkadang kami mahasiswa masih perlu membawa laptop dari rumah dikarenakan semua unit yang tersedia sudah terpakai.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171600">
-
-
-			<text>layanan yang diberikan dosen seperti saat konsultasi/perwalian sangat baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171601">
-
-
-			<text>dosen memberikan saran yang terbaik untuk mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171610">
-
-
-			<text>saya rasa itu saja, untuk selebihnya saya harap sarana prasarana dapat ditambah, dan dosen/pengajar lebih interaktif dan kreatif dengan mahasiswa agar suasana belajar mengajar di kelas tidak monoton/membosankan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Netral" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171620">
-
-
-			<text>menurut saya pengajar di perkuliahan sudah bagus karena pengajar selalu hadir dan kalau pun tidak hadir pasti memiliki asalan yang dapat diterima</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171630">
-
-
-			<text>menurut saya sarana prasarana masih kurang seperti halnya proyektor tidak kebagian karena telah dipinjam oleh kelas lain,tetapi dari segi materi yang diberikan komplit</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Positif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171640">
-
-
-			<text>pendapat saya tentang dosen di itera, khususnya untuk dosen prodi adalah, bahwa dalam mengajar mahasiswa di kelas sudah cukup baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171650">
-
-
-			<text>kondisi perkuliahan yang cukup kondusif, dengan berbagai kontrak kuliah yang disepakati pada awal kuliah.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171660">
-
-
-			<text>sarana pembelajaran saat ini sudah cukup mumpuni, tapi khususnya untuk lab komputer, seharusnya ditambahkan lagi, apalagi dengan mahasiswa yang terus bertambah.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171670">
-
-
-			<text>layanan yang ingin saya komplain adalah tentang layanan domain web ukm, karena biasanya webnya sangat sering down.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171680">
-
-
-			<text>itera sudah dikenal di kalangan para akademisi, khususnya guru guru sma sederajat, tapi coba tanyakan ke masyarakat, pasti mereka tidak tahu apa itu itera.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171681">
-
-
+		
+    
+		<sentence id="T2017-R86-S1">
+			
+          
 			<text>menurut saya kegiatan eksternal kampus dan prestasi nasional harus sering diadakan dan diikuti, supaya itera tidak lagi menjadi suatu hal yang abstrak.</text>
-
-
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171690">
-
-
+		
+    
+		<sentence id="T2017-R87-S0">
+			
+          
 			<text>fasilitas sesuai dengan keadaan, tapi akan lebih baik lagi jika ada perbaikan untuk kenyamanan bersama</text>
-
-
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Positif" />
-
-
+				
+         
 			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171700">
-
-
+		
+    
+		<sentence id="T2017-R88-S0">
+			
+          
 			<text>sejauh semester 4 yang dijalani tim pengajar sudah baik, materi disiapkan dengan baik dan penjelasan cukup mudah dimengerti.</text>
-
-
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171701">
-
-
+		
+    
+		<sentence id="T2017-R88-S1">
+			
+          
 			<text>apalagi dengan sistem belajar kelompok.</text>
-
-
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="NoAspect" polarity="Netral" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171710">
-
-
+		
+    
+		<sentence id="T2017-R89-S0">
+			
+          
 			<text>kondisi perkuliahan cukup kondusif, terutama karena perkuliahan tpb kebanyakan di gedung e, sehingga tdk terlalu banyak noise dari luar ruangan</text>
-
-
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171720">
-
-
+		
+    
+		<sentence id="T2017-R90-S0">
+			
+          
 			<text>sarana perkuliahan sudah mulai memadai, banyak perbaikan, seperti pemasangan ac di gd d</text>
-
-
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171730">
-
-
+		
+    
+		<sentence id="T2017-R91-S0">
+			
+          
 			<text>menurut saya pengajar di itera sudah bagus dalam penyampaian materi karena, saya dapat memahami materi yang di sampaikan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R91-S1">
+			
+          
+			<text>tapi dalam beberapa kasus ada beberapa materi yang kadang sulit saya mengerti ketika di jelaskan oleh dosen pengajar, karena mungkin sulit menggambarkan materi tersebut dalam bentuk kata-kata.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R92-S0">
+			
+          
+			<text>menurut saya perkuliahan juga berjalan dengan baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R93-S0">
+			
+          
+			<text>menurut saya sedikit kurang memadai seperti jumlah buku pada perpustakaan,kamar mandi yang kurang optimal dalam fungsinya, serta pendingin ruangan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R93-S1">
+			
+          
+			<text>dari yang pernah saya jumpai di beberapa kelas ada sarana kipas dan ac yang  terbilang lebih untuk satu ruangan sedangkan ada beberapa ruangan yang tidak mendapat kipas maupun ac.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R94-S0">
+			
+          
+			<text>lumayan bagus sekarang ada kemajuan tidak sebelumnya yg jarang memperhatikan mahasiswanya sekarang pihak sesuai kemauan mahasiswa dengan syarat ketentuan yang berlaku</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R95-S0">
+			
+          
+			<text>baik-baik untuk layanan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R96-S0">
+			
+          
+			<text>sirkulasi udara yang kurang, wifi untuk mahasiswa yang sering mati-hidup</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		<sentence id="T2017-R97-S0">
+
+
+			<text>menurut saya, dosen pengajar di itera ada beberapa tipe, mengajarnya mudah
+dipahami </text>
 
 
 			<Opinions>
@@ -5397,12 +2711,11 @@ air di toilet kurang lancar</text>
 
 
 		</sentence>
+		<sentence id="T2017-R97-S1">
 
 
-		<sentence id="20171731">
-
-
-			<text>tapi dalam beberapa kasus ada beberapa materi yang kadang sulit saya mengerti ketika di jelaskan oleh dosen pengajar, karena mungkin sulit menggambarkan materi tersebut dalam bentuk kata-kata.</text>
+			<text>menurut saya, dosen pengajar di itera ada beberapa tipe, 2. mengajarnya tidak mudah
+dipahami </text>
 
 
 			<Opinions>
@@ -5415,635 +2728,270 @@ air di toilet kurang lancar</text>
 
 
 		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171740">
-
-
-			<text>menurut saya sedikit kurang memadai seperti jumlah buku pada perpustakaan,kamar mandi yang kurang optimal dalam fungsinya, serta pendingin ruangan.</text>
-
-
+		<sentence id="T2017-R97-S3">
+			
+          
+			<text>menurut saya, dosen pengajar di itera ada beberapa tipe, dosen yg lebih banyak
+bercerita</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171741">
-
-
-			<text>dari yang pernah saya jumpai di beberapa kelas ada sarana kipas dan ac yang  terbilang lebih untuk satu ruangan sedangkan ada beberapa ruangan yang tidak mendapat kipas maupun ac.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171750">
-
-
-			<text>lumayan bagus sekarang ada kemajuan tidak sebelumnya yg jarang memperhatikan mahasiswanya sekarang pihak sesuai kemauan mahasiswa dengan syarat ketentuan yang berlaku</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171760">
-
-
-			<text>baik-baik untuk layanan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171770">
-
-
-			<text>sirkulasi udara yang kurang, wifi untuk mahasiswa yang sering mati-hidup</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171780">
-
-
-			<text>menurut saya, dosen pengajar di itera ada beberapa tipe,
-1. mengajarnya mudah dipahami
-2. mengajarnya tidak mudah dipahami
-3. dosen yg lebih banyak bercerita</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Netral" /><Opinion category="Dosen#Umum" polarity="Netral" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171790">
-
-
-			<text>baik, mengajarkan datang tepat waktu, berpakaian rapi dan sopan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171800">
-
-
-			<text>slide presentasi kuliah kurang menarik atau di butuhkan pembaruan atau remake ppt.</text>
-
-
+		
+    
+		<sentence id="T2017-R98-S0">
+			
+          
+			<text>kondisi perkuliahan terkadang kurang kondusif, karena kelas panas dan mahasiswanya terlalu banyak dalam kelas</text>
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171801">
-
-
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R99-S0">
+			
+          
+			<text>prasana untuk ac kurang, karena ada beberapa kelas yg tidak ada ac nya</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R100-S0">
+			
+          
+			<text>kurangnya penutup kaca, sehingga mengganggu pembelajaran khususnya menggunakan proyektor</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R101-S0">
+			
+          
+			<text>baik, mengajarkan datang tepat waktu, berpakaian rapi dan sopan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R102-S0">
+			
+          
+			<text>slide presentasi kuliah kurang menarik atau di butuhkan pembaruan atau remake ppt.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R102-S1">
+			
+          
 			<text>materi kurang spesifikasi penjelasannya
 
 saran : materi dibuat oleh dosen terkait yang akan menjelaskan presentasi tersebut.</text>
-
-
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171810">
-
-
+		
+    
+		<sentence id="T2017-R103-S0">
+			
+          
 			<text>dibutuhkan lab khusus untuk prodi informatika, sehingga jika ada waktu lenggang bisa ke lab untuk ber eksplorasi lebih.</text>
-
-
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Netral" />
-
-
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171820">
-
-
+		
+    
+		<sentence id="T2017-R104-S0">
+			
+          
 			<text>dibutuhkan wadah sebagai tempat ber eksplorasi mahasiswa khususnya informatika, dan dosen informatika sebagai pembina wadah tersebut.</text>
-
-
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171830">
-
-
-			<text>kurang nya ac atau kipas angin, sehingga panas kelas nya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171840">
-
-
-			<text>terkadang pengajar ada yang mengajar nya kurang mendetail dan konsep yang disampaikan belum begitu mendetail, suara kadang ada yang kecil dan kurang memahami mahasiswa yang ilmu nya masih kurang</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171850">
-
-
-			<text>kondisi perkuliahan sudar berjalan cukup baik dengan seringnya belajar dengan kerja kelompok membuat mahasiswa jadi lebih aktif dan tidak bosan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171860">
-
-
-			<text>sarana prasarana sudah cukup baik seperti ruang kelas yang ada ac membuat mahasiswa lebih nyaman dalam belajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171870">
-
-
-			<text>layanan sudah bagus.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171871">
-
-
-			<text>cukup tanggap melayani kebutuhan mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171880">
-
-
-			<text>kurangnya diskusi persetujuan antar mahasiswa dan pengajar kuliah, dan ini bisa mengakibatkan miskomunikasi antar sesama.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171890">
-
-
-			<text>kurangnya diskusi persetujuan antar mahasiswa dan pengajar kuliah, dan ini bisa mengakibatkan miskomunikasi antar sesama.sering terjadi kelas yang digunakan tidak mencukupi dengan banyaknya mahasiswa dalam kelas, hal ini membuat kondisi perkuliahan jadi tidak kondusif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171891">
-
-
-			<text>selain itu ac yang ada dikelas sering dalam keadaan mati.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171900">
-
-
-			<text>layanan kebersihan kelas kurang bersih, contohnya saat pergantian kelas perkuliahan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171910">
-
-
-			<text>sangat baik dalam penyampaian materi, dan membuat bagaimana caranya kami dapat mudah untuk mengerti materi apa yang disampaikan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171920">
-
-
-			<text>di semester genap ini, sistem pengajaran cukup mudah di mengerti oleh mahasiswa.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171930">
-
-
-			<text>pengajar kuliah menjadi panutan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171931">
-
-
-			<text>ada beberapa pengajar yang sepertinya kurang mempersiapkan materi akan tetapi lebih banyak yg sudah siap.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Positif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171940">
-
-
-			<text>cukup memuaskan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20171941">
-
-
-			<text>hanya jika kelas besar harap menggunakan pengeras suara</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Perkuliahan" polarity="Netral" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
+		
+    
+		<sentence id="T2017-R105-S0">
+			
+          
+			<text>terlalu banyak mahasiswanya di kelas tertentu, sehingga kurang kondusif pembelajaran nya</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R106-S0">
+			
+          
+			<text>kurang nya ac atau kipas angin, sehingga panas kelas nya</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    <sentence id="T2017-R107-S0">
 
 
-		<sentence id="20171950">
-
-
-			<text>dosen dosen lebih terlihat enjoy dan enak penyampaianny jika matkul yg di ajarkan benar benar sesuai passion dosennya, jd yg d ajar juga enak, dan dosen barunya jgn takut sama kami, kami gk gigit kok</text>
+			<text>terkadang pengajar ada yang mengajar nya kurang mendetail dan konsep yang disampaikan belum begitu mendetail</text>
 
 
 			<Opinions>
@@ -6056,1317 +3004,1718 @@ saran : materi dibuat oleh dosen terkait yang akan menjelaskan presentasi terseb
 
 
 		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171960">
-
-
-			<text>kondisi perkuliahan sudah kondusif namun ketika belajar dalam bentuk kelompok, beberapa anggota kelompok ada yang tidak bisa diajak kerja sama</text>
-
-
+		<sentence id="T2017-R107-S1">
+			
+          
+			<text>suara kadang ada yang kecil dan kurang memahami mahasiswa yang ilmu nya masih kurang</text>
+			
+          
 			<Opinions>
-
-
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R108-S0">
+			
+          
+			<text>kondisi perkuliahan sudar berjalan cukup baik dengan seringnya belajar dengan kerja kelompok membuat mahasiswa jadi lebih aktif dan tidak bosan.</text>
+			
+          
+			<Opinions>
+				
+            
 				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20171970">
-
-
-			<text>sarana dan prasarana sangat kurang memadai, khususnya lap tik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171971">
-
-
-			<text>sering terjadi masalah pada komputer sehingga memakan waktu praktikum yang dibatasi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171980">
-
-
+		
+    
+		<sentence id="T2017-R109-S0">
+			
+          
+			<text>sarana prasarana sudah cukup baik seperti ruang kelas yang ada ac membuat mahasiswa lebih nyaman dalam belajar.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R110-S0">
+			
+          
 			<text>layanan sudah bagus.</text>
-
-
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Layanan" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171981">
-
-
-			<text>dosen selalu memberi masukan, mendukung, dan mengarahkan mahasiswanya didalam maupun diluar perkuliahan</text>
-
-
+		
+    
+		<sentence id="T2017-R110-S1">
+			
+          
+			<text>cukup tanggap melayani kebutuhan mahasiswa.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20171990">
-
-
-			<text>menurut saya, pengajar kuliah di teknik informatika itera sudah cukup baik dalam memberikan materi.</text>
-
-
+		
+    
+		<sentence id="T2017-R111-S0">
+			
+          
+			<text>kurangnya diskusi persetujuan antar mahasiswa dan pengajar kuliah, dan ini bisa mengakibatkan miskomunikasi antar sesama.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20171991">
-
-
-			<text>sehingga materi yang diterima dapat mudah dipelajari dan dimengerti dengan baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172000">
-
-
-			<text>terkadang pada saat perkuliahan berlangsung, masih banyak ruangan yang ac nya tidak hidup sehingga cukup mengganggu.</text>
-
-
+		
+    
+		<sentence id="T2017-R112-S0">
+			
+          
+			<text>sering terjadi kelas yang digunakan tidak mencukupi dengan banyaknya mahasiswa dalam kelas, hal ini membuat kondisi perkuliahan jadi tidak kondusif.</text>
+			
+          
 			<Opinions>
-
-
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R112-S1">
+			
+          
+			<text>selain itu ac yang ada dikelas sering dalam keadaan mati.</text>
+			
+          
+			<Opinions>
+				
+            
 				<Opinion category="Sarpras" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172010">
-
-
-			<text>mungkin itu saja.</text>
-
-
+		
+    
+		<sentence id="T2017-R113-S0">
+			
+          
+			<text>layanan kebersihan kelas kurang bersih, contohnya saat pergantian kelas perkuliahan.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
+				
+            
+				<Opinion category="Layanan" polarity="Negatif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172020">
-
-
-			<text>lumayan, tetapi komputer masih kurang</text>
-
-
+		
+    
+		<sentence id="T2017-R114-S0">
+			
+          
+			<text>sangat baik dalam penyampaian materi, dan membuat bagaimana caranya kami dapat mudah untuk mengerti materi apa yang disampaikan</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172030">
-
-
-			<text>sarana dan prasarana kurang memadai terlebih lagi untuk praktikum.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172040">
-
-
-			<text>pengajar peduli atas keadaan yang dialami mahasiswa informatika , tetapi saya masih sulit untuk menangkap hal diajarkan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172050">
-
-
-			<text>bagus, tapi ga semuanya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172051">
-
-
-			<text>dosennya peduli dan ngajar sampe bisa.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172060">
-
-
-			<text>kadang dalam hal mengajar terlalu monoton atau flat.</text>
-
-
+		
+    
+		<sentence id="T2017-R115-S0">
+			
+          
+			<text>layanan yang diberikan prodi if sangat baik dan dapat dengan mudah nya bila ada informasi terbaru</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20172061">
-
-
-			<text>jadi seperti mendongeng yang mengurangi semangat mahasiswa untuk mendengarkan dan memperhatikan</text>
-
-
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R116-S0">
+			
+          
+			<text>di semester genap ini, sistem pengajaran cukup mudah di mengerti oleh mahasiswa.</text>
+			
+          
 			<Opinions>
-
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R117-S0">
+			
+          
+			<text>pengajar kuliah menjadi panutan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R117-S1">
+			
+          
+			<text>ada beberapa pengajar yang sepertinya kurang mempersiapkan materi akan tetapi lebih banyak yg sudah siap.</text>
+			
+          
+			<Opinions>
+				
 
 				<Opinion category="Dosen#Umum" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172070">
-
-
-			<text>ada saatnya pada kelas besar yang membuat suasana dalam kelas ramai dan berisik, bahkan kadang panas yang membuat kondisi tidak kondusif</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172080">
-
-
-			<text>untuk menjawab pertanyaan, dosen menjawab dengan percaya diri, dan bisa menjawab dengan baik dengan pemahaman yang baik</text>
-
-
-			<Opinions>
-
-
 				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172090">
-
-
-			<text>selain itu dosen juga ada yang bisa membawa suasana jadi keadaan kelas tidak hampa, sehingga mahasiswa tetap semangat untuk menerima materi yang diberikan dosen</text>
-
-
+		
+    
+		<sentence id="T2017-R118-S0">
+			
+          
+			<text>cukup memuaskan.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172100">
-
-
-			<text>dosen prodi if saat mengajar baik, dan menjelaskan materi begitu detail dan jelas sehingga mahasiswa mengerti apa yang diajarkan dan diberikan banyak lagi contoh contoh setiap materi yang diajarkannya</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172110">
-
-
-			<text>kondisi nya sangat tenang ,santai ,asik serta tidak tegang.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="NoAspect" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172120">
-
-
-			<text>penyampaian materinya mudah dipahami, latihan soal yg diberikan membantu dalam memahi materi yg diajarkan</text>
-
-
+		
+    
+		<sentence id="T2017-R118-S1">
+			
+          
+			<text>hanya jika kelas besar harap menggunakan pengeras suara</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172130">
-
-
-			<text>enak, suasananya kompak, tapi kadang suka gak kondusif kalo lagi digabung, atau yang ngerti nambah ngerti yang gak ngerti nambah gak ngerti</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172140">
-
-
-			<text>kelas sudah memadai tapi fasilitas dukungan seperti ac,dll.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Positif" />
-
-
-			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172141">
-
-
-			<text>kurang dingin jadi kurang nyaman dan terlalu gerah tidak konsentrasi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172142">
-
-
-			<text>toilet juga kadang gak bersih dan ada yang rusak</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172150">
-
-
-			<text>sudah baik, tapi penjadwalan akademik dan pengaturan jadwal dan tempat perkuliahan masih kurang baik, terkadang masih sulit dikondisikan</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172160">
-
-
-			<text>sebaiknya perkuliahan dibuat lebih kondusif lagi dan adanya pemerataan untuk meningkatkan kualitas mahasiswa, dibuat sistem yang dapat menjangkau seluruh mahasiswa dalam meningkatkan kualitas perkuliahan, adanya kebersihan dan kerapihan dalam segala aspek agar dapat membuat kenyamanan dalam perkuliahan</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172170">
-
-
-			<text>bagus, hanya saja terkadang dosen kurang memahami apa yang ingin disampaikan</text>
-
-
+		
+    
+		<sentence id="T2017-R119-S0">
+			
+          
+			<text>kondisi perkuliahan sudah kondusif.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172180">
-
-
-			<text>mohon ditingkatkan lagi buku-buku diperpus,tempat duduk mahasiswa dan jaringan wi-fi kampus</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172190">
-
-
-			<text>dosen-dosen sangat terampil dalam mengajar baik dosen terbang atau pun dosen tetap.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172191">
-
-
-			<text>meskipun ada beberapa dosen yang kurang bagi saya dalam hal mengajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172200">
-
-
-			<text>termasuk baik karena kondisi lumayan kondusif saat proses pembelajaran berlangsung.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20172201">
-
-
-			<text>namun,  jika kelas digabung, kelas terkadang tidak kondusif seperti bising dan ruangan yang panas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172210">
-
-
-			<text>banyak kelas yang tidak menggunakan sarana secara maksimal.</text>
-
-
+		
+    
+		<sentence id="T2017-R120-S0">
+			
+          
+			<text>dosen dosen lebih terlihat enjoy dan enak penyampaianny jika matkul yg di ajarkan benar benar sesuai passion dosennya, jd yg d ajar juga enak, dan dosen barunya jgn takut sama kami, kami gk gigit kok</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172211">
-
-
-			<text>seperti halnya ac yang kadang tidak dihidupkan.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172220">
-
-
-			<text>untuk keseluruhan pengajar kuliah sudah cukup baik walaupun beberapa pengajar tidak begitu efektif dalam mengajarnya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172230">
-
-
-			<text>kondisi perkuliahan untuk beberapa kelas sudah cukup kondusif karena dengan dibaginya 3 kelas yang tidak membuat kelas itu penuh dan memberikan kesan sesak</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172240">
-
-
-			<text>sarana prasarananya sangat minim, pada komputer sangat terbatas yang mengakibatkan sulitnya untuk menentukan jadwal praktikum prodi informatika.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Sarpras" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172250">
-
-
-			<text>saya berharap semoga para pengajar prodi if dapat membuat mahasiswa/i nya lebih semangat lagi dalam pembelajaran.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172251">
-
-
-			<text>karena terkadang cara mengajar pengajar mempengaruhi minat mahasiswa untuk belajar.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Dosen#Mengajar" polarity="Netral" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172260">
-
-
-			<text>keseluruhan pengajar tentu yang terbaik dan sudah baik, namun ada matakuliah semester lalu yang pengajar nya nampak tak siap dengan beban materi, sehingga kami pun makin sulit menerima materi dari pengajar tersebut.</text>
-
-
+		
+    
+		<sentence id="T2017-R121-S0">
+			
+          
+			<text>kondisi perkuliahan sudah kondusif namun ketika belajar dalam bentuk kelompok, beberapa anggota kelompok ada yang tidak bisa diajak kerja sama</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172270">
-
-
-			<text>kondisi nya terjaga dan selalu kebanyakan tepat waktu, sehingga baik dalam perkuliahan.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
+				
+         
+			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172280">
-
-
-			<text>kurang nya ruang laboratorium komputer, sehingga kami sering kesulitan mendapatkan jadwal lab yang tidak bentrok dengan matakuliah lain.</text>
-
-
+		
+    
+		<sentence id="T2017-R122-S0">
+			
+          
+			<text>sarana dan prasarana sangat kurang memadai, khususnya lap tik.</text>
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172290">
-
-
-			<text>sudah baik, terutama dosen wali saya.</text>
-
-
+		
+    
+		<sentence id="T2017-R122-S1">
+			
+          
+			<text>sering terjadi masalah pada komputer sehingga memakan waktu praktikum yang dibatasi.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172300">
-
-
-			<text>pengajaran kuliah yang saya harapkan dapat menerapkan sistem on project karena lewat project maka mahasiswa dapat berperan aktif dan produktif.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Umum" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172301">
-
-
-			<text>jika berbasis project dan dapat di publish maka akan dapat menunjang karir dan nama baik itera.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172302">
-
-
-			<text>project juga berpengaruh terhadap pemahaman dibanding mengingat teori.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="NoAspect" polarity="Netral" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172310">
-
-
-			<text>perkuliahan yang baik ketika ruangan kelas bersih, rapih dan tidak panas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172320">
-
-
-			<text>sarana prasarana seharusnya dapat menyediakan segala kebutuhan mahasiswa dalam akademik dan dosen dalam pengajaran seperti ruang lab yang banyak serta fungsi lab sebagai tempat riset juga sangat diperlukan</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Sarpras" polarity="Negatif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
 	<Review>
-
-
-		<sentence id="20172330">
-
-
-			<text>layanan yang diberikan seperti akademik, kebersihan dll menurut saya seharusnya dapat melayani dengan ramah, cepat tanggap dan penuh senyum.. karena sangat berpengaruh terhadap lingkungan kampus yang produktif</text>
-
-
+		
+    
+		<sentence id="T2017-R123-S0">
+			
+          
+			<text>layanan sudah bagus.</text>
+			
+          
 			<Opinions>
-
-
-				<Opinion category="Layanan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172340">
-
-
-			<text>untuk pengajar kuliah cukup bagus dan baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172341">
-
-
-			<text>materi materi yang di ajarkan pun sangat detail dalam pengajar.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172342">
-
-
-			<text>dosen dosen yang sangat mahir dalam bidang nya membuat kualitas pengajaran semakin baik.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172343">
-
-
-			<text>tetapi terkadang ada beberapa dosen yang jika mengajar terburu dalam menyampaikan materi sehingga cukup lama dalam memahami materinya.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172350">
-
-
-			<text>kondisi perkuliahan sudah mulai membaik dan tidak kepanasan lagi.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Positif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-		<sentence id="20172351">
-
-
-			<text>hanya saja terkadang masih kurang kondusif karena banyak nya mahasiswa dalam satu kelas.</text>
-
-
-			<Opinions>
-
-
-				<Opinion category="Perkuliahan" polarity="Negatif" />
-
-
-			</Opinions>
-
-
-		</sentence>
-
-
-	</Review>
-
-
-	<Review>
-
-
-		<sentence id="20172360">
-
-
-			<text>pelayanan nya cukup baik.</text>
-
-
-			<Opinions>
-
-
+				
+            
 				<Opinion category="Layanan" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
-		<sentence id="20172361">
-
-
-			<text>karena jika ada keluhan terhadap mahasiswa dosen wali selalu cepat tanggap untuk menangani nya.</text>
-
-
+		
+    
+		<sentence id="T2017-R123-S1">
+			
+          
+			<text>dosen selalu memberi masukan, mendukung, dan mengarahkan mahasiswanya didalam maupun diluar perkuliahan</text>
+			
+          
 			<Opinions>
-
-
+				
+            
 				<Opinion category="Dosen#Umum" polarity="Positif" />
-
-
+				
+         
 			</Opinions>
-
-
+			
+    
 		</sentence>
-
-
+		
+    
 	</Review>
-
-
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R124-S0">
+			
+          
+			<text>menurut saya, pengajar kuliah di teknik informatika itera sudah cukup baik dalam memberikan materi.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R124-S1">
+			
+          
+			<text>sehingga materi yang diterima dapat mudah dipelajari dan dimengerti dengan baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R125-S0">
+			
+          
+			<text>terkadang pada saat perkuliahan berlangsung, masih banyak ruangan yang ac nya tidak hidup sehingga cukup mengganggu.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R126-S0">
+			
+          
+			<text>mungkin itu saja.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Netral" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R127-S0">
+			
+          
+			<text>lumayan, tetapi komputer masih kurang</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R128-S0">
+			
+          
+			<text>sarana dan prasarana kurang memadai terlebih lagi untuk praktikum.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R129-S0">
+			
+          
+			<text>pengajar peduli atas keadaan yang dialami mahasiswa informatika , tetapi saya masih sulit untuk menangkap hal diajarkan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R130-S0">
+			
+          
+			<text>bagus, tapi ga semuanya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Positif" />
+				
+         
+			<Opinion category="NoAspect" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R130-S1">
+			
+          
+			<text>dosennya peduli dan ngajar sampe bisa.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R131-S0">
+			
+          
+			<text>kadang dalam hal mengajar terlalu monoton atau flat.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R131-S1">
+			
+          
+			<text>jadi seperti mendongeng yang mengurangi semangat mahasiswa untuk mendengarkan dan memperhatikan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R132-S0">
+			
+          
+			<text>ada saatnya pada kelas besar yang membuat suasana dalam kelas ramai dan berisik, bahkan kadang panas yang membuat kondisi tidak kondusif</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R133-S0">
+			
+          
+			<text>untuk menjawab pertanyaan, dosen menjawab dengan percaya diri, dan bisa menjawab dengan baik dengan pemahaman yang baik</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R134-S0">
+			
+          
+			<text>selain itu dosen juga ada yang bisa membawa suasana jadi keadaan kelas tidak hampa, sehingga mahasiswa tetap semangat untuk menerima materi yang diberikan dosen</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R135-S0">
+			
+          
+			<text>dosen prodi if saat mengajar baik, dan menjelaskan materi begitu detail dan jelas sehingga mahasiswa mengerti apa yang diajarkan dan diberikan banyak lagi contoh contoh setiap materi yang diajarkannya</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R136-S0">
+			
+          
+			<text>kondisi nya sangat tenang ,santai ,asik serta tidak tegang.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R137-S0">
+			
+          
+			<text>penyampaian materinya mudah dipahami, latihan soal yg diberikan membantu dalam memahi materi yg diajarkan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R138-S0">
+			
+          
+			<text>enak, suasananya kompak, tapi kadang suka gak kondusif kalo lagi digabung, atau yang ngerti nambah ngerti yang gak ngerti nambah gak ngerti</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R139-S0">
+			
+          
+			<text>kelas sudah memadai tapi fasilitas dukungan seperti ac,dll.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Positif" />
+				
+         
+			<Opinion category="Sarpras" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R139-S1">
+			
+          
+			<text>kurang dingin jadi kurang nyaman dan terlalu gerah tidak konsentrasi.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R139-S2">
+			
+          
+			<text>toilet juga kadang gak bersih dan ada yang rusak</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R140-S0">
+			
+          
+			<text>sudah baik, tapi penjadwalan akademik dan pengaturan jadwal dan tempat perkuliahan masih kurang baik, terkadang masih sulit dikondisikan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			<Opinion category="Perkuliahan" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R141-S0">
+			
+          
+			<text>sebaiknya perkuliahan dibuat lebih kondusif lagi dan adanya pemerataan untuk meningkatkan kualitas mahasiswa, dibuat sistem yang dapat menjangkau seluruh mahasiswa dalam meningkatkan kualitas perkuliahan, adanya kebersihan dan kerapihan dalam segala aspek agar dapat membuat kenyamanan dalam perkuliahan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R142-S0">
+			
+          
+			<text>bagus, hanya saja terkadang dosen kurang memahami apa yang ingin disampaikan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Umum" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R143-S0">
+			
+          
+			<text>mohon ditingkatkan lagi buku-buku diperpus,tempat duduk mahasiswa dan jaringan wi-fi kampus</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R144-S0">
+			
+          
+			<text>dosen-dosen sangat terampil dalam mengajar baik dosen terbang atau pun dosen tetap.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R144-S1">
+			
+          
+			<text>meskipun ada beberapa dosen yang kurang bagi saya dalam hal mengajar.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R145-S0">
+			
+          
+			<text>termasuk baik karena kondisi lumayan kondusif saat proses pembelajaran berlangsung.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R145-S1">
+			
+          
+			<text>namun,  jika kelas digabung, kelas terkadang tidak kondusif seperti bising dan ruangan yang panas.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R146-S0">
+			
+          
+			<text>banyak kelas yang tidak menggunakan sarana secara maksimal.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R146-S1">
+			
+          
+			<text>seperti halnya ac yang kadang tidak dihidupkan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R147-S0">
+			
+          
+			<text>untuk keseluruhan pengajar kuliah sudah cukup baik walaupun beberapa pengajar tidak begitu efektif dalam mengajarnya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R148-S0">
+			
+          
+			<text>kondisi perkuliahan untuk beberapa kelas sudah cukup kondusif karena dengan dibaginya 3 kelas yang tidak membuat kelas itu penuh dan memberikan kesan sesak</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R149-S0">
+			
+          
+			<text>sarana prasarananya sangat minim, pada komputer sangat terbatas yang mengakibatkan sulitnya untuk menentukan jadwal praktikum prodi informatika.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R150-S0">
+			
+          
+			<text>saya berharap semoga para pengajar prodi if dapat membuat mahasiswa/i nya lebih semangat lagi dalam pembelajaran.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R150-S1">
+			
+          
+			<text>karena terkadang cara mengajar pengajar mempengaruhi minat mahasiswa untuk belajar.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R151-S0">
+			
+          
+			<text>keseluruhan pengajar tentu yang terbaik dan sudah baik, namun ada matakuliah semester lalu yang pengajar nya nampak tak siap dengan beban materi, sehingga kami pun makin sulit menerima materi dari pengajar tersebut.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			<Opinion category="Dosen#Mengajar" polarity="Negatif" /></Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R152-S0">
+			
+          
+			<text>kondisi nya terjaga dan selalu kebanyakan tepat waktu, sehingga baik dalam perkuliahan.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R153-S0">
+			
+          
+			<text>kurang nya ruang laboratorium komputer, sehingga kami sering kesulitan mendapatkan jadwal lab yang tidak bentrok dengan matakuliah lain.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R154-S0">
+			
+          
+			<text>sudah baik, terutama dosen wali saya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R155-S0">
+			
+          
+			<text>pengajaran kuliah yang saya harapkan dapat menerapkan sistem on project karena lewat project maka mahasiswa dapat berperan aktif dan produktif.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R155-S1">
+			
+          
+			<text>jika berbasis project dan dapat di publish maka akan dapat menunjang karir dan nama baik itera.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Netral" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R155-S2">
+			
+          
+			<text>project juga berpengaruh terhadap pemahaman dibanding mengingat teori.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="NoAspect" polarity="Netral" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R156-S0">
+			
+          
+			<text>perkuliahan yang baik ketika ruangan kelas bersih, rapih dan tidak panas.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Netral" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R157-S0">
+			
+          
+			<text>sarana prasarana seharusnya dapat menyediakan segala kebutuhan mahasiswa dalam akademik dan dosen dalam pengajaran seperti ruang lab yang banyak serta fungsi lab sebagai tempat riset juga sangat diperlukan</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R158-S0">
+			
+          
+			<text>layanan yang diberikan seperti akademik, kebersihan dll menurut saya seharusnya dapat melayani dengan ramah, cepat tanggap dan penuh senyum.. karena sangat berpengaruh terhadap lingkungan kampus yang produktif</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Sarpras" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R159-S0">
+			
+          
+			<text>untuk pengajar kuliah cukup bagus dan baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R159-S1">
+			
+          
+			<text>materi materi yang di ajarkan pun sangat detail dalam pengajar.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R159-S2">
+			
+          
+			<text>dosen dosen yang sangat mahir dalam bidang nya membuat kualitas pengajaran semakin baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R159-S3">
+			
+          
+			<text>tetapi terkadang ada beberapa dosen yang jika mengajar terburu dalam menyampaikan materi sehingga cukup lama dalam memahami materinya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Mengajar" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R160-S0">
+			
+          
+			<text>kondisi perkuliahan sudah mulai membaik dan tidak kepanasan lagi.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R160-S1">
+			
+          
+			<text>hanya saja terkadang masih kurang kondusif karena banyak nya mahasiswa dalam satu kelas.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Perkuliahan" polarity="Negatif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
+	<Review>
+		
+    
+		<sentence id="T2017-R161-S0">
+			
+          
+			<text>pelayanan nya cukup baik.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Layanan" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+		<sentence id="T2017-R161-S1">
+			
+          
+			<text>karena jika ada keluhan terhadap mahasiswa dosen wali selalu cepat tanggap untuk menangani nya.</text>
+			
+          
+			<Opinions>
+				
+            
+				<Opinion category="Dosen#Umum" polarity="Positif" />
+				
+         
+			</Opinions>
+			
+    
+		</sentence>
+		
+    
+	</Review>
+	
+    
 </Reviews>
