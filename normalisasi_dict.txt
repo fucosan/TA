@@ -156,6 +156,7 @@ terimakasih             terima kasih
 praktikun               praktikum
 stelah                  setelah
 thats                   itu
+that                    itu
 enginer                 teknik
 pemakainya              pemakaiannya
 dikurangin              dikurangi
@@ -282,6 +283,7 @@ mrv                     matriks ruang vektor
 mengupload              mengunggah
 dcek                    dicek
 yag                     yang
+yangsl                  yang selalu
 company                 perusahaan
 baikdari                baik dari
 ditingkatin             ditingkatkan
@@ -387,6 +389,7 @@ probstat                probabilitas dan statistik
 pkm                     pekan karya mahasiswa
 publish                 menerbitkan
 ahirnya                 akhirnya
+akhinya                 akhirnya
 buruburu                buru buru
 laboratium              laboratorium
 oa                      akun resmi

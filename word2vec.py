@@ -2,6 +2,9 @@ import gensim
 
 
 def average_word2vec(word):
+    """
+    ini kenapa ada lagi disini
+    """
     model_file_name = "idwiki_word2vec_200.model"
     model = gensim.models.Word2Vec.load(model_file_name)
     sum = 0

@@ -1,6 +1,10 @@
 import xml.etree.ElementTree as ET
+import nltk
 
-
+"""
+this class load xml data, transform it into pair data structure (text, opini),
+rebuild id of every sentence, and create summary of data
+"""
 class MyXML:
     def __init__(self, path):
         self.path = path
@@ -95,10 +99,22 @@ class MyXML:
             self.set_mp()
         return self.mp
 
+    def add_space(self, text):
+        """
+        adding space after period if it have not
+        it will take a long time, i guess
+        """
+        for i in range(0, len(text)):
+            if text[i] == '.' or text[i] == ',':
+                if i < len(text) - 1 and text[i + 1] != ' ':
+                    text = text[:i+1] + " " + text[i + 1:]
+        return text
+
     def set_pair(self):
         for sentence in self.root.iter('sentence'):
             x = []
             text = sentence.find('text').text
+            text = self.add_space(text)
             x.append(text)
             y = []
             for opini in sentence.find('Opinions'):
@@ -112,3 +128,6 @@ class MyXML:
         if not bool(self.pair):
             self.set_pair()
         return self.pair
+
+    def save_data(self, filename):
+        self.tree.write(filename)

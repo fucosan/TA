@@ -2,6 +2,9 @@ import nltk
 import requests
 import re
 
+"""
+i don't know what it is
+"""
 def add_noun_phrase(kalimats):
     np_1 = find_noun_phrase(kalimats[0])
     np_2 = find_noun_phrase(kalimats[1])

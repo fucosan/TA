@@ -1,6 +1,9 @@
 import requests
 
 def stemmer(pair):
+    """
+    using inanlp for steamming every token
+    """
     url = 'http://localhost:9000/stemmer'
     js = {'string': ''}
     new_pair = []

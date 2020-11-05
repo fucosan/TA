@@ -3,6 +3,10 @@ import nltk
 import time
 
 def build_dict_normalisasi(pair):
+    """
+    ceck every token and compare it with kateglo dictionary.
+    if word in data not in kateglo add it to dictionary
+    """
     words = set()
     for text, opini in pair:
         for w in nltk.tokenize.word_tokenize(text):
@@ -28,6 +32,10 @@ def save_dict(new_word):
             f.write("%s\n" % w)
 
 def normalisasi(pair):
+    """
+    after dictionary are build, we can formalized
+    each word in data
+    """
     mp = dict()
     with open('normalisasi_dict.txt') as myfile:
         for val in myfile:
@@ -47,6 +55,9 @@ def normalisasi(pair):
     return new_pair
 
 def ina_nlp_formalizer(pair):
+    """
+    this is formalize each word using ina nlp
+    """
     url = 'http://localhost:9000/formalizer'
     js = {'string': ''}
     new_pair = []

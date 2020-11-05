@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as ET
-
+"""
+this class used for load xml data and promt terminal interface for anotate data
+"""
 class AnotateData:
     def __init__(self, filename):
         self.filename = filename

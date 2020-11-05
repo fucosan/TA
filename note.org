@@ -54,3 +54,7 @@ frekuensi, frekuensi_stemming, tfidf, tfidf_stemming, postagger, word2_vec_mean,
 a) jangan lupa update key text
 b) kata konjungsi jangan dibuang
 c) besok benerin algorithm untuk split kalimat
+* note 2
+- kalo dalam satu kalimat ada lebih dari satu kata konjungsi splitnya dimana?
+- benerin juga untuk multi aspek yang lebih dari satu aspek gimana?
+- conjungsi diawal kalimat gimana?

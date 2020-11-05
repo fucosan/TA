@@ -1,6 +1,9 @@
 import requests
 
 def stop_word(pair):
+    """
+    remove stop word using inaNLP
+    """
     url = 'http://127.0.0.1:9000/stopwords'
     js = {'string': ''}
     new_pair = []

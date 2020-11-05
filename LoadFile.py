@@ -8,9 +8,13 @@ from time import gmtime, strftime, localtime
 import os
 import errno
 
+"""
+this class use for load xlsx data, change it into xml and save it in new folder with current time as
+a part of the name
+"""
+
 links = ['./data/raw/2016.xlsx', './data/raw/2017.xlsx', './data/raw/2018.xlsx', './data/raw/2019.xlsx']
 datas = {}
-
 
 def load_data():
     """
